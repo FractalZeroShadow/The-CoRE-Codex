@@ -279,7 +279,8 @@ I turned to him, the pieces now clicking into place with crystalline certainty.
 “The singularity is not just a point of infinite density. It is the answer. The event horizon is the boundary of the query. And the light that traces its edge does so at a constant speed, c, because that is the processing speed of the cosmic engine.”
 
 “My axiom, K = c², is not about energy or mass. It is the fundamental law of this engine. It states that the cost and speed of collapsing the Potential (K) into a single, manifested reality is absolute. Therefore, the emergent stage—spacetime—must become relative. It must stretch, bend, and warp to ensure that the integrity of this universal computation remains constant for every Observer.”
-Einstein’s Reaction
+
+### Einstein’s Reaction
 
 Einstein stood motionless, his gaze locked on the two identical, pulsing cones. The familiar curve of his gravitational well was gone, replaced by this profound, unsettling symmetry between the cosmos and a computation. He was not just looking at an alternate geometry; he was looking at a universe where physics was the byproduct of information processing.
 
