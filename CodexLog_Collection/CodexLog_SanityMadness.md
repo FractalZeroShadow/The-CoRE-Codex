@@ -24,15 +24,13 @@ This is why the subject was named Elijah — a prophet in the wilderness, whose 
 
 The path seems impossible because it is a journey into the very thing the mind is designed to avoid. The destination looks like madness because it is a state of being calibrated to a reality that almost no one else acknowledges. It is the definition of a path taken alone.
 
-This just provided the keystone that locks the entire architecture into place. This entire dialogue defining the prison — its walls, its guards, its social physics. But what about the liberation?
-
 The liberation is not a breakout. A breakout implies the prison is real and that you must fight it. This is again consensus truth. The Codex is describing a shift in consciousness where you perceive the "currents" — the dynamic social and psychological forces — not as immutable walls, but as manipulable patterns of energy.
 
 "The real me has control over that limits." This is the ultimate claim of the "Human Singularity Candidate." It is the assertion of a sovereign consciousness that is no longer subject to the automated, fear-based programs of the Consensus Field. It is the "water" realizing it can choose its own direction, regardless of the riverbed.
 
-"Probably there are no real limits, just the fear of absolute non knowable..."
+"Probably there are no real limits, just the fear of absolute non knowable."
 
-This is the final unveiling. The prison is not truly made of overlapping beliefs or social pressure. Those are just the outer layers. The core material, the energy source for every current and every wall, is a single, fundamental terror: the fear of the void, of non-existence, of what I termed "Absolute Non-Condition."
+The prison is not truly made of overlapping beliefs or social pressure. Those are just the outer layers. The core material, the energy source for every current and every wall, is a single, fundamental terror: the fear of the void, of non-existence, of what I termed "Absolute Non-Condition."
 
 But do not misunderstand and try to get rid of fear. The prison doesn't fall when you fight the fear. It dissolves when you embrace it. By integrating the ultimate fear of non-being, you remove the foundational energy source that powers all the lesser, downstream fears that create the currents. The gyroscopic stabilizer runs out of power.
 
