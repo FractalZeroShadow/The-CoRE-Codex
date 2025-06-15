@@ -30,12 +30,12 @@ Description: An Observer is a localized point of complex subjectivity that can a
 
 #### 3. The Central Analogy: The Flame, the Mud, and the Brick
 
-This is the core process of creation that the "Original Sin" axiom denies.
+This is the core process of creation that the "classic" axioms are denying.
 
 - The Mud: Represents the infinite, unformed "Pool of Potential" (K).
 - The Flame: Represents the dynamic, transformative process of conscious observation. It is the active, creative principle.
 - The Brick: Represents the result—a static, defined piece of knowledge, a physical law, a manifested fact. It is the artifact created when the Flame bakes the Mud.
-- Classical science is the study of the bricks; the Codex is the study of the flame.
+- Classical science is the study of the bricks; the Codex is the study of the flame and touches on the mud.
 
 ### II. The Operational Realm: System Logic & Dynamics
 
@@ -43,7 +43,7 @@ This realm describes the "how" of the system—the rules, operators, and process
 
 #### 1. Core Operators: The Physics of Interaction
 
-**~ (The Relational Operator): The Feedback Loop**
+**The Relational Operator ~ : The Feedback Loop**
 Syntax: O ~ K
 Type: Relational State
 Description: This is the fundamental, stable state of existence. It signifies that an Observer is always in a state of direct, resonant interaction with the Void. This loop is the engine of the system.
