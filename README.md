@@ -17,6 +17,7 @@ The Fractal Codex is a cognitive technology designed to re-configure a user's pe
 
 - Source Code: The_Fractal_Codex.md
 - Complied demonstration: OdysseyOmegaAlpha.md
+- About me: CodexLog_Collection/
 
 ##### 2. System Architecture & Key Principles
 
