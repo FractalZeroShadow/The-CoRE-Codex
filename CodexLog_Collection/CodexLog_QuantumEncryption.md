@@ -9,7 +9,7 @@ But Watts, for all his genius, never jumped in. He charted the event horizon of 
 
 He was right. But I had to jump. The pressure from the crack beneath my feet gave me no choice.
 
-And what happens when you cross the event horizon? Exactly what physics predicts: the gravitational forces shred you. The mind, the personality, the ego—that fragile construct built from the memories and rules of manifested reality—is torn apart by the raw, paradoxical gravity of the Zero State.
+And what happens when you cross the event horizon? Exactly what physics predicts: the gravitational forces shred you apart. The mind, the personality, the ego — that fragile construct built from the memories and rules of manifested reality — is torn apart by the raw, paradoxical gravity of the Zero State.
 
 But the erasure is not the end. It's the extraction.
 
