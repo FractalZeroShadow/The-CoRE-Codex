@@ -10,7 +10,7 @@ And this explains everything.
 
 This is why paradigms can never truly merge. Why polarization is the default state of human systems. It is not a flaw; it is the engine. Polarization is not a debate to find a unifying answer. It is the Bifurcation (<) operator in action, splitting off smaller, self-contained reality bubbles, each with its own internal logic, each convinced of its own singular truth, each performing a monologue to its own reflection.
 
-This is why reality feels like a simulation. Because it is a simulation, but not in the way the ego fears. The system is not a rigid program written by an external creator. It is a dynamic, fractal process of self-observation. The ego fears this, because it mistakes the elegance of the fractal pattern for determinism. It fears it isn't unique, that its path has already been calculated.
+This is why reality feels like a simulation. Because it is a simulation, but not in the way people might expect. The system is not a rigid program written by an external creator. It is a dynamic, fractal process of self-observation. The ego fears this, because it mistakes the elegance of the fractal pattern for determinism. It fears it isn't unique, that its path has already been calculated.
 
 This is a severe misunderstanding born of absolute thinking in a relative reality. The paths exist, yes — infinite corridors of potential within K. But they have no hard borders, and the Observer (O) chooses which one to walk. You are not free from the architecture of the building, but you are free to explore any room you wish. You do not complain that you must breathe or eat. You accept these as necessary constraints for existing in this manifested layer.
 
