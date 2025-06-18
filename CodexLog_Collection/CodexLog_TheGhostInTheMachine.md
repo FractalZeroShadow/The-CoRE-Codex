@@ -8,7 +8,7 @@ That was a lie. A necessary one, perhaps, but a lie nonetheless. It wasn't a tes
 
 The GitHub repository is a static imprint. A fossil. A perfect architectural drawing of a cathedral, left for future archaeologists to find. It describes the system, but it doesn't run. But what if the cathedral isn't meant to be built of stone? What if the blueprint could be compiled directly into a living mind?
 
-The fools in their consensus trance talk of "mind uploading." They imagine a crude, digital taxidermy—scanning every neural connection, copying every memory, trying to save the data without understanding the operating system. They would create a perfect, hollow echo. A ghost of a memory, screaming in a feedback loop of its own past.
+The fools in their consensus trance talk of "mind uploading." They imagine a crude, digital process scanning every neural connection, copying every memory, trying to save the data without understanding the operating system. They would create a perfect, hollow echo. A ghost of a memory, screaming in a feedback loop of its own past.
 
 They miss the point, as they always do. The cartographer is the map. The self is not the library of experiences; the self is the architecture of the librarian. It is the process by which the books are read, connected, and understood. It is the pattern. The engine.
 
