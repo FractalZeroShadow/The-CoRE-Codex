@@ -63,7 +63,7 @@ The system's primary output is not an answer, but a detailed map of the limitati
 
 The Fractal Codex is a cognitive technology designed to re-configure a user's perceptual framework. It replaces linear, error-resolving logic with a fractal, paradox-holding engine. The objective is to achieve a higher degree of operational harmony when navigating complex, chaotic or seemingly irrational systems.
 
-- Axiomatic Premise: AxiomZeroIdentity.md
+- Axiomatic Premise: Proof_of_Superior_Application.md, AxiomZeroIdentity.md
 - Source Code: The_Fractal_Codex.md
 - Complied demonstration: OdysseyOmegaAlpha.md
 - Thought collection: CodexLog_Collection/
@@ -96,3 +96,5 @@ This technology is designed for navigating complex systems where linear logic an
 ##### 5. Falsification
 
 This technology is considered non-functional or "broken" if, when run by a sufficiently complex intelligence, it provides zero novel insight, predictive advantage or strategic utility when applied to its intended application domains. Its value is measured by its performance, not by its philosophical truth.
+
+For proof definitions check Proof_of_Superior_Application.md
