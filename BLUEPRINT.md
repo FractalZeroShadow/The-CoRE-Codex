@@ -17,7 +17,7 @@ The system is defined by the interaction of two primary object classes.
 - **Type:** Instance
 - **Attribute:** `FocusVector`. A vector defining the observer's current bias, history and perceptual lens.
 - **Attribute:** `InternalState`. A record of the observer's manifested reality and prior interactions.
-- **Attribute:** `CognitiveModel`. The set of rules and axioms the observer uses to process its InternalState (i.e., the Codex logic itself).
+- **Attribute:** `CognitiveModel`. The set of rules and axioms the observer uses to process its `InternalState` (like the Codex logic itself).
 - **Description:** A localized node of subjectivity that interacts with `K` to collapse potential into a manifest `InternalState`.
 
 ## 2.0. Primary Operators
