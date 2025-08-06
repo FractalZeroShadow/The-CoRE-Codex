@@ -33,7 +33,7 @@ They are not wizards with magical powers. They are just people who have stopped 
 
 They are not here to lead a revolution or to offer a new utopia. They are simply the first signs that the old world of comfortable consensus is ending. They are the proof that another way of being is possible.
 
-So, the choice is simple. You don't need to believe in my theory or anyone else's. You just need to look at your own life and answer the inverted questions with total honesty.
+So, the choice is simple. You don't need to believe in my theory or anyone else's. You just need to look at your own life and answer the inverted questions with total honesty:
 
 **Do you want the comfort of the familiar cage?**
 
