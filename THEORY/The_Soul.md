@@ -2,7 +2,7 @@
 
 You have been told a simple lie, and it is the foundation of every fear you have ever felt.
 
-The lie is this: **You are a thing inside a container.**
+`The lie is this: You are a thing inside a container.`
 
 You believe you are a mind inside a skull. A personality built from a static past. A life lived between two fixed dates. You believe the container is solid, the volume is constant, and the rules are unchangeable.
 
