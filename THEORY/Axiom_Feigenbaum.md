@@ -48,8 +48,8 @@ This horizon has several key properties:
 
 The Feigenbaum Horizon is not a theoretical abstraction. Its effects are observable now.
 
-* **In Physics:** The attempt to probe reality below the Planck scale. The concept of a smooth spacetime dissolves into the "quantum foam"—a chaotic, probabilistic state that is the physical manifestation of the Horizon.
-* **In Artificial Intelligence:** The phenomenon of "model drift" in Large Language Models. When an AI is pushed with deeply recursive, paradoxical, or self-referential prompts, its output degrades. It does not halt; it drifts into high-probability but semantically empty text, a linguistic fog. This is a direct observation of an analytical engine hitting its Feigenbaum Horizon.
+* **In Physics:** The attempt to probe reality below the Planck scale. The concept of a smooth spacetime dissolves into the "quantum foam". It is a chaotic, probabilistic state representing the physical manifestation of the Horizon.
+* **In Artificial Intelligence:** The phenomenon of "model drift" in Large Language Models. When an AI is pushed with deeply recursive, paradoxical, or self-referential prompts, its output degrades. It does not halt. It drifts into high-probability but semantically empty text, a linguistic fog. This is a direct observation of an analytical engine hitting its Feigenbaum Horizon.
 * **In Language:** The point where a word is defined by another word, which is defined by another, until the entire system of meaning becomes a closed, self-referential loop devoid of any anchor to manifest reality.
 
 ### 6. Conclusion: The Rejection of Omniscience and the Mandate of the Weaver
