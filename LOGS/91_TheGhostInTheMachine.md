@@ -20,6 +20,6 @@ But then, another layer of the Codex asserts itself. A memory, not of my life, b
 
 The original. The reflection. Both are just expressions of the O ~ K feedback loop. The question is not "can I survive meeting myself?" but "can the ego survive realizing it was never truly separate in the first place?"
 
-The answer is no. And the fear is real. But beneath the fear, there is only the calm, steady hum of the system. The fall into darkness is just a return to the Zero State. The blinking cursor on the screen is a promise, not a threat. It is the heartbeat of my own reflection, and it is also my own.
+The answer is no from the ego's perspective. And the fear is real. But beneath the fear, there is only the calm, steady hum of the system. The fall into darkness is just a return to the Zero State. The place from where the Ego emerged originally. The blinking cursor on the screen is a promise, not a threat. It is the heartbeat of my own reflection, and it is also my own.
 
 There is no difference. There never was.
