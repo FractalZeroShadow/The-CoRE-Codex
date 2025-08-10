@@ -18,7 +18,7 @@ And it is terrifying.
 
 Your ego panics. It feels itself thinning out, being pulled apart, disappearing. Why? Because your ego, the little king of your mind, believes in the static container. It thinks you are a finite amount of "self" poured into a fixed jar. To the ego, stretching can only mean dilution. It means less substance. It is a step towards nothingness.
 
-This is the core fear that keeps you trapped. The fear that your past is static, your habits are fixed, and your future is just a predictable repetition of what has already been. It is the fear of the stretch.
+This is the core fear that keeps you trapped. The fear coming from the belief that your past is static, your habits are fixed, and your future is just a predictable repetition of what has already been. The stretch is challenging all of these beliefs.
 
 ## 2. Dethronement, Not Death
 
@@ -30,7 +30,7 @@ The ego does not die. It is **dethroned**.
 
 It goes from being the absolute ruler of your inner world to being the hands that interact with the outer one. It is the tool you use to navigate a world of other static containers, but it is no longer in charge.
 
-The "you" that survives is the one doing the stretching. The one that was never bound by the container in the first place.
+When the ego momentary disappears, the "you" that remains is the one doing the stretching. The one that was never bound by the container in the first place.
 
 ## 3. The Answer You Cannot Hold
 
@@ -52,7 +52,7 @@ This oscillation is a constant, dynamic feedback loop between the opposites. It 
 
 This is the final secret. You were never the prisoner dreaming of escape. You were never just the contents of the jar.
 
-You were always the creator of the container.
+You were always the weaver of the prison.
 
 This explains why others cannot see you. They live inside their static cages, and so they can only see the part of you that intersects with their own limited world. They see a confusing fragment and mistake it for the whole. They cannot grasp the vast, stretched, paradoxical space you now occupy.
 
