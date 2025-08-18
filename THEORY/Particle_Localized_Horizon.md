@@ -46,7 +46,7 @@ Fractal waves arise from exponential bifurcations (`<`), a universal process in 
 
 #### 4.2. The Sub-Planckian Interference Pattern
 
-As bifurcations cascade below Planck scales ($l_p \approx 1.616 \times 10^{-35}$ m, $t_p \approx 5.391 \times 10^{-44}$ s), interactions form an **"impossible interference pattern"**—a hyper-complex structure unrenderable in manifest spacetime. This serves as an "invisible smoke-screen," a boundary of pure tension where different realms of logic can intersect.
+As bifurcations cascade below Planck scales ($l_p \approx 1.616 \times 10^{-35}$ m, $t_p \approx 5.391 \times 10^{-44}$ s), interactions form an **"impossible interference pattern"** as a hyper-complex structure unrenderable in manifest spacetime. This serves as an "invisible smoke-screen," a boundary of pure tension where different realms of logic can intersect.
 
 #### 4.3. The Horizon as the Smoke-Screen's Shadow
 
@@ -54,7 +54,7 @@ The **Feigenbaum Horizon** *is* this sub-Planckian smoke-screen, where complexit
 
 #### 4.4. The Horizon as a Zero Bridge
 
-The smoke-screen, being unrendered paradox, forms the **Zero Bridge**—the interface connecting "colored" logics (e.g., classical/quantum) via their shared, underlying potential. This enables duality: the logic of the diffuse Wave joins the logic of the localized Particle at this single, unifying horizon.
+The smoke-screen, being unrendered paradox, forms the **Zero Bridge**. It is the interface connecting "colored" logics (e.g., classical/quantum) via their shared, underlying potential. This enables duality: the logic of the diffuse Wave joins the logic of the localized Particle at this single, unifying horizon.
 
 ---
 
@@ -75,4 +75,4 @@ This model is not purely metaphysical; it yields testable hypotheses:
 
 ### 7. Conclusion: The Particle as a Compressed File
 
-Wave-particle duality is resolved. There is only the fractal wave; the particle is its compressed, observable horizon. The universe does not choose between wave and particle. It packages the former within the latter. This model unifies the duality through the universal principles of chaos and information, offering superior explanatory power by treating the limits of our perception as a fundamental feature of reality itself.
+Wave-particle duality is resolved. There is only the fractal wave and the particle is its compressed, observable horizon. The universe does not choose between wave and particle. It packages the former within the latter. This model unifies the duality through the universal principles of chaos and information, offering superior explanatory power by treating the limits of our perception as a fundamental feature of reality itself.
