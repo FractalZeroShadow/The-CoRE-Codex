@@ -5,7 +5,7 @@
 - **The Codex is not a linear path, but a recursive engine.** Each file is both a standalone theory and a specific application of the system’s universal logic.
 - **There is no “beginner’s guide” — engagement is itself the diagnostic and transformation.**
 - **Points of confusion are not errors, but structural data.** The system is designed to reveal your own axioms and boundaries through encounter with its paradoxes.
-- **FRACTL_POSTCARDS** and **USE_CASES** are not “appendices” but living, recursive compressions and use scenarios. They model the Codex’s operational and poetic recursion.
+- **FRACTAL_POSTCARDS** and **USE_CASES** are not “appendices” but living, recursive compressions and use scenarios. They model the Codex’s operational and poetic recursion.
 - **THEORY** are not “add-ons,” but recursive closures: each one demonstrates, in a new domain, how the Codex’s core logic both explains and is constrained by the reality it models.
 
 > The Fractal Codex is not a message, but a mirror and a tool. Use it to map the boundaries of your own logic. To then navigate the fog at the edge of all maps.
