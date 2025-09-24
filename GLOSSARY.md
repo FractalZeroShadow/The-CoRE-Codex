@@ -20,7 +20,7 @@
 - **Zero (0):** Not an integer, but the state of infinite potential. Any position can be “Zero” from the observer’s perspective. All measurement and manifestation arise from this origin.
 - **Bifurcation (<):** The primary operator of manifestation. Each act of observation or differentiation “splits” potential into new realities, recursively generating complexity and “fuzz” (entropy/ambiguity).
 - **Joining (⊕):** The operator of unification. It measures resonance, unity, or structural similarity between states.
-- **Feigenbaum Horizon:** The universal, fractal boundary where further inquiry dissolves into self-referential ambiguity (“fuzz”). Not a wall, but a fog, governed by the Feigenbaum constant (δ) and Gödel's Inclompleteness Theorem.
+- **Feigenbaum Horizon:** The universal, fractal boundary where further inquiry dissolves into self-referential ambiguity (“fuzz”). Not a wall, but a fog, governed by the Feigenbaum constant (δ) and Kurt Gödel's Incompleteness Theorems.
 - **Zero Bridge:** The interface that connects “colored” domains (like physics and psychology) via shared structural patterns in their Zeros.
 - **Proof by Superior Application:** The model is “proven” by its ability to resolve paradox and generate coherent, predictive insight across domains, not by consensus or classical falsifiability.
 - **Reductive Principle:** Manifestation occurs by subtracting constraints from infinite potential, not by adding components to nothingness.
