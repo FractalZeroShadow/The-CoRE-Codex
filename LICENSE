@@ -1,121 +1,313 @@
-Creative Commons Legal Code
+# License
 
-CC0 1.0 Universal
+## Dual-License Structure
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+This work is released under a **dual-license framework**:
 
-Statement of Purpose
+1. **Primary License:** The Fractal Codex License Addendum (FCL) v1.0 (detailed below)
+2. **Legal Fallback:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+### License Validity and Application
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+**If the FCL Addendum is deemed invalid, unenforceable, or unrecognized** in your jurisdiction or by your institution, the work automatically defaults to **CC-BY-SA 4.0** as the governing license.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+**If both licenses are valid in your context:**
+- The **FCL Addendum** governs the **ethical and operational framework** of use
+- The **CC-BY-SA 4.0** provides the **legal enforceability baseline**
+- In cases of conflict between the two, interpret through the **FCL Addendum principles first**
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+**Practical guidance:**
+- **Personal/research users:** Operate under FCL Addendum
+- **Commercial users:** Operate under FCL Addendum with good-faith transparency
+- **Institutional users requiring recognized licenses:** Cite CC-BY-SA 4.0, honor FCL Addendum spirit
+- **When uncertain:** Default to FCL Addendum; use CC-BY-SA 4.0 only if legally required
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+---
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+## The Fractal Codex License Addendum (FCL) v1.0
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+**Effective Date:** 2025-10-10  
+**Jurisdiction:** Intended as universal ethical framework; legal enforceability varies by jurisdiction
 
-4. Limitations and Disclaimers.
+### 1. Preamble and Intent
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+This addendum articulates the ethical, operational, and philosophical framework governing use of this work. It is designed to:
+
+- Maximize legitimate personal, educational, and research use
+- Enable good-faith commercial applications with proper attribution
+- Prevent extractive appropriation, proprietary capture, and misrepresentation
+- Maintain open access and copyleft principles for derivatives
+
+This addendum operates on principles of reciprocity and transparent attribution. Where legal systems cannot enforce these principles, community accountability and reputational transparency serve as primary mechanisms.
+
+### 2. Definitions
+
+**"The Work"** means the content, frameworks, theories, protocols, and documentation contained in this repository.
+
+**"Derivative Work"** means any modification, adaptation, translation, or extension of the Work.
+
+**"Commercial Use"** means use primarily intended for or directed toward commercial advantage or monetary compensation.
+
+**"Good-Faith Commercial Use"** means Commercial Use that includes proper attribution, operates transparently, and does not claim proprietary ownership.
+
+**"Extractive Use"** means Commercial Use that conceals the source, claims proprietary ownership, or restricts public access to core concepts.
+
+**"Attribution"** means clear acknowledgment of the original author (FractalZeroShadow) and source repository (github.com/FractalZeroShadow/The-Fractal-Codex).
+
+### 3. Permitted Uses
+
+The following uses are explicitly permitted:
+
+#### 3.1 Personal and Research Use
+
+You may use, study, modify, and apply the Work for:
+- Personal cognitive development and practice
+- Academic research, citation, and critique
+- Independent validation and convergence testing
+- Non-commercial educational sharing and discussion
+
+#### 3.2 Attribution-Based Sharing
+
+You may distribute the Work (modified or unmodified) provided you:
+- Provide clear Attribution to the original author
+- Link to the source repository
+- Indicate modifications made (if applicable)
+- Release Derivative Works under a compatible copyleft license (FCL v1.0, CC-BY-SA 4.0, GPL v3, or similar)
+
+#### 3.3 Good-Faith Commercial Use
+
+You may use the Work commercially (including therapy, coaching, consulting, training, or education) provided you:
+- Include Attribution in client-facing materials or service descriptions
+- Do not claim the Work or its core concepts as proprietary, exclusive, or requiring certification/licensing from you
+- Operate with transparency regarding your methods and sources
+- Acknowledge the Work's experimental or pre-validation status where applicable
+- Optionally contribute improvements, insights, or case data back to the public repository (encouraged but not required)
+
+**Example:** A therapist using the Fear Equations framework in practice, citing the source in intake materials, and sharing anonymized case insights in professional forums.
+
+### 4. Prohibited Uses
+
+The following uses are explicitly prohibited:
+
+#### 4.1 Extractive Appropriation
+
+You may not:
+- File patents or trademarks on concepts, terms, or frameworks derived from the Work
+- Create closed, proprietary derivatives and claim exclusive ownership
+- Require proprietary certification, licensing fees, or exclusive access rights
+- Profit from the Work while concealing its source or blocking public access to core concepts
+
+**Example of Violation:** A corporation rebranding core concepts as proprietary technology, filing patents, and selling expensive certification programs while restricting public access.
+
+#### 4.2 Misrepresentation
+
+You may not:
+- Claim authorship of unmodified portions of the Work
+- Imply the author endorses your Derivative Work without explicit written permission
+- Present the Work as scientifically validated or proven if it has not met stated validation thresholds (see /VALIDATION/ directory)
+- Remove or obscure warnings regarding cognitive risks, social consequences, or experimental status
+
+#### 4.3 Harmful Recontextualization
+
+You may not:
+- Use the Work to manipulate, coerce, or exploit individuals through fear, false certainty, power dynamics, or false comfort
+- Strip the Work's acknowledgment of paradox, complexity, or risk to create oversimplified commercial products
+- Reframe the Work to reinforce harmful power structures, cult-like dynamics, or abusive practices
+
+**Example of Violation:** Repackaging the framework as "10 Simple Steps to Enlightenment" while removing all warnings about ego dissolution, social isolation, or the framework's pre-validation status.
+
+### 5. Copyleft Requirement
+
+All Derivative Works must be released under a **compatible copyleft license** that ensures:
+- Public access to the derivative content
+- Attribution to original sources
+- Continued copyleft obligations for subsequent derivatives
+
+**Compatible licenses include:** FCL v1.0, CC-BY-SA 4.0, GPL v3.0, or similar share-alike licenses.
+
+**Exception:** If your Derivative Work contains more than 80% original content created independently of this Work, you may use a different open license. In such cases, provide Attribution in your bibliography or acknowledgments section.
+
+### 6. Enforcement and Remedies
+
+#### 6.1 Primary Enforcement Mechanism
+
+The primary enforcement mechanism is **reputational transparency and community accountability**:
+
+1. **Public Documentation:** Violations will be documented in timestamped public records (GitHub Discussions or /VALIDATION/ folder)
+2. **Good-Faith Notification:** One private communication to the violator requesting compliance
+3. **Public Declaration:** If unresolved, publication of the violation pattern with evidence for community evaluation
+4. **Legal Action (Secondary):** If violation is severe (e.g., patents blocking public access, large-scale commercial extraction), legal enforcement via CC-BY-SA 4.0 may be pursued
+
+#### 6.2 No Warranty or Liability
+
+The author does not warrant that this enforcement mechanism will be effective in all cases. Legal action is discretionary and depends on severity, resources, and jurisdictional factors.
+
+### 7. Warranty Disclaimer
+
+**THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.**
+
+This includes but is not limited to warranties of:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Accuracy, completeness, or reliability
+- Psychological safety or stability
+
+**Known Risks:**
+
+Engagement with the Work may trigger:
+- Cognitive dissonance and worldview destabilization
+- Social isolation or relationship strain
+- Professional or reputational consequences
+- Psychological distress during paradigm shifts
+
+These outcomes are intrinsic to the Work's design and are not defects. Users assume all risks.
+
+### 8. Limitation of Liability
+
+**TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR:**
+- Any direct, indirect, incidental, special, or consequential damages
+- Loss of data, profits, reputation, or opportunities
+- Psychological, social, or professional consequences of use
+- Misuse or misapplication by third parties
+
+**This limitation applies even if the author has been advised of the possibility of such damages.**
+
+### 9. Contribution and Evolution
+
+This license may be revised based on real-world application, violations, or community input.
+
+**Current Version:** v1.0 (2025-10-10)
+
+**To propose amendments:**
+1. Use template in /VALIDATION/TEMPLATES/Validation_Proposal_Template.md
+2. Submit via Pull Request to /VALIDATION/Proposed_Amendments.md
+3. Community discussion occurs in GitHub Discussions
+4. Author reviews and decides on implementation
+
+**Versioning:**
+- Minor clarifications: v1.1, v1.2, etc.
+- Structural changes: v2.0, v3.0, etc.
+
+All versions will be archived with effective dates.
+
+### 10. Governing Principles
+
+This license embodies the following principles:
+
+**Reciprocity:** Those who benefit from the Work contribute back through attribution, transparency, or improvement.
+
+**Transparency:** Use of the Work, especially commercial use, acknowledges sources openly.
+
+**Anti-Enclosure:** Concepts cannot be captured and locked behind proprietary barriers.
+
+**Distributed Authority:** No single entity can claim certification or licensing authority.
+
+**Evolutionary Openness:** The Work and its license can improve through community input.
+
+### 11. Relationship to CC-BY-SA 4.0
+
+When this FCL Addendum governs, it functions as a **more specific interpretation** of the general CC-BY-SA 4.0 license.
+
+When CC-BY-SA 4.0 serves as fallback, its terms apply fully, but users are encouraged to honor the principles articulated in this Addendum even if not legally bound to do so.
+
+**In jurisdictions where custom licenses are not recognized, CC-BY-SA 4.0 governs exclusively.**
+
+---
+
+## Legal Fallback: Creative Commons Attribution-ShareAlike 4.0 International
+
+**Full License Text:**  
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+**Summary of Terms:**
+
+You are free to:
+- **Share:** Copy and redistribute the material in any medium or format
+- **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+- **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
+
+**When CC-BY-SA 4.0 Applies:**
+
+- The FCL Addendum is deemed invalid or unenforceable in your jurisdiction
+- Your institution requires a standard recognized license for compliance purposes
+- You need court-enforceable legal standing for severe violations (patents, large-scale extraction)
+- You prefer the simplicity and legal clarity of a widely-recognized license
+
+**Note:** Even when operating under CC-BY-SA 4.0, you are encouraged to honor the ethical principles of the FCL Addendum where possible.
+
+---
+
+## Quick Reference Table
+
+| Use Case | Recommended License | Key Requirements |
+|----------|-------------------|------------------|
+| Personal practice/research | FCL Addendum | None beyond proper use |
+| Academic citation | Either | Standard academic attribution |
+| Educational sharing | FCL Addendum | Attribution, maintain copyleft |
+| Therapy/coaching (good faith) | FCL Addendum | Attribution, transparency, no proprietary claims |
+| Software integration | CC-BY-SA 4.0 or GPL v3 | Attribution, copyleft preservation |
+| Commercial products | FCL Addendum | Attribution, transparency, no patents, copyleft derivatives |
+| Institutional publication | CC-BY-SA 4.0 | Standard CC-BY-SA compliance |
+| Uncertain/complex cases | CC-BY-SA 4.0 (safe harbor) | Standard compliance, honor FCL spirit |
+
+---
+
+## Attribution Requirements
+
+**Minimum Attribution:**
+
+When using or sharing the Work, include:
+
+```
+Based on/Derived from "The Fractal Codex" by FractalZeroShadow
+Source: https://github.com/FractalZeroShadow/The-Fractal-Codex
+License: FCL v1.0 / CC-BY-SA 4.0
+```
+
+**For modified works, also include:**
+```
+Modified by [Your Name] on [Date]
+Changes: [Brief description]
+```
+
+**For commercial use, also include:**
+Attribution in client-facing materials, websites, or service descriptions where the Work is applied.
+
+---
+
+## Contact and Questions
+
+**For simple license questions:**  
+Read this license fully first. Most questions are answered in sections 3-5.
+
+**For discussion or clarification:**  
+GitHub Discussions → "License & Attribution" category  
+https://github.com/FractalZeroShadow/The-Fractal-Codex/discussions
+
+**For formal amendment proposals:**  
+1. Use template: /VALIDATION/TEMPLATES/Validation_Proposal_Template.md
+2. Fork repository, add to /VALIDATION/Proposed_Amendments.md
+3. Submit Pull Request with title: "FCL Amendment: [Topic]"
+
+**For pre-registering validation studies:**  
+1. Use template: /VALIDATION/TEMPLATES/Convergence_Study_Template.md
+2. Fork repository, add to /VALIDATION/Convergence_Studies.md  
+3. Submit Pull Request with title: "Pre-Registration: [Study Name]"
+
+**Primary repository:**  
+https://github.com/FractalZeroShadow/The-Fractal-Codex
+
+---
+
+**Author:** FractalZeroShadow  
+**Effective Date:** 2025-10-10 14:41:02 UTC  
+**Version:** 1.0
+
+---
+
+**This license balances open access with protection against extractive use. When in doubt, prioritize transparency, attribution, and reciprocity.**

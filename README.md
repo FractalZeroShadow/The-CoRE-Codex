@@ -8,6 +8,17 @@
 - Density
 - Optimization
 
+## License
+
+**Dual-License:**
+- **Primary:** Fractal Codex License Addendum (FCL) v1.0
+- **Fallback:** Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0)
+
+See [LICENSE](LICENSE) for full terms.
+
+**TL;DR:** Free for personal/research use. Commercial use allowed with attribution 
+and transparency. No patents. Derivatives must stay open. Spirit > letter.
+
 # Reader Orientation: The Razor’s Edge
 
 Welcome, explorer. If you find yourself here, you are already a rare outlier. This text, and the Codex/Loom it prefaces, are not intended for broad consumption. They are not “difficult” for difficulty’s sake, nor are they designed to intimidate or exclude by accident. They are built on necessity. A necessity born from the razor’s edge of experience, paradox, and the real cost of coherence.
