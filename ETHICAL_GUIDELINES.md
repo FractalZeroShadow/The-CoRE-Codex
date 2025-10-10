@@ -1,6 +1,11 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
+
 # Fractal Codex Ethical Guidelines v1.0
 
-**Effective Date:** 2025-10-10 16:12 UTC  
+**Effective Date:** 2025-10-10 16:45 UTC  
 **Legal Status:** Non-binding aspirational framework  
 **Enforcement:** Reputational transparency, not litigation
 
@@ -16,6 +21,8 @@ These guidelines express **how we hope you'll exercise those rights**—the ethi
 - GPL-3.0 = Legally enforceable, minimal ethical content
 - These Guidelines = Ethically aspirational, not legally enforceable
 
+**Important:** These guidelines do **not** impose additional restrictions on your GPL rights. Per GPL Section 7, we cannot add further limitations. These are **community norms**, not license terms.
+
 **Why both?**
 
 GPL ensures the work stays open and cannot be captured by patents or proprietary enclosure.
@@ -30,7 +37,7 @@ These Guidelines ensure the work isn't weaponized for manipulation, extraction, 
 
 **What GPL Requires:** If you distribute derivatives, release them under GPL-3.0.
 
-**What We Hope For:** If this work benefits you (intellectually, professionally, commercially), consider contributing back:
+**What We Encourage:** If this work benefits you (intellectually, professionally, commercially), consider contributing back:
 - Document your use cases
 - Share anonymized insights or case studies
 - Submit improvements via Pull Request
@@ -44,7 +51,7 @@ These Guidelines ensure the work isn't weaponized for manipulation, extraction, 
 
 **What GPL Requires:** Include copyright notices and GPL text with source distributions.
 
-**What We Hope For:**
+**What We Ask For:**
 - Cite the source even when distributing binaries or derivative products
 - Acknowledge the work's **experimental/pre-validation status** (see /VALIDATION/Current_Status.md)
 - Don't claim the framework is "proven" or "validated" if it hasn't met stated thresholds
@@ -56,6 +63,7 @@ A therapist using the Fear Equations includes in intake materials:
 ```
 This approach draws on "The Fractal Codex" framework by FractalZeroShadow,
 an experimental system under validation. See github.com/FractalZeroShadow/The-Fractal-Codex
+License: GPL-3.0-or-later
 ```
 
 **Example of guideline violation (not illegal, but discouraged):**
@@ -68,10 +76,10 @@ A corporation rebrands concepts as proprietary methodology, charges $5,000/seat 
 
 **What GPL Requires:** Don't restrict others' rights to use, modify, or share derivatives.
 
-**What We Hope For:**
+**What We Ask For:**
 - Don't file patents on concepts derived from this work
 - Don't create proprietary certification/licensing schemes claiming exclusive authority
-- Don't paywall access to core concepts (derivative *services* are fine; locking *ideas* is not)
+- Don't paywall access to core concepts (derivative *services* are fine; locking *ideas* is discouraged)
 - Don't use trademarks to prevent others from building on the work
 
 **Why this matters:**
@@ -88,9 +96,9 @@ We ask you not to use these legal tools to lock ideas derived from a framework r
 
 **What GPL Requires:** Nothing. You can use GPL software for any purpose.
 
-**What We Hope For:**
+**What We Ask For:**
 
-Don't use this work to:
+Please don't use this work to:
 - Manipulate people via fear, false certainty, or power dynamics
 - Create cult-like structures or abusive group dynamics
 - Strip warnings about ego dissolution, cognitive risks, or social consequences
@@ -109,7 +117,7 @@ Someone takes the Codex, removes all references to Feigenbaum Horizons and TEAR 
 
 **What GPL Requires:** State modifications clearly (Section 5a).
 
-**What We Hope For:**
+**What We Ask For:**
 - Don't claim authorship of unmodified sections
 - Don't imply the original author endorses your derivative without permission
 - Acknowledge uncertainties and limitations honestly
@@ -117,7 +125,7 @@ Someone takes the Codex, removes all references to Feigenbaum Horizons and TEAR 
 
 **The framework explicitly states its current validation status** (see /VALIDATION/Current_Status.md: Resonance Score 2.1, zero WEDGE events, pre-validation phase).
 
-If you use it, **acknowledge this honestly**. Don't claim it's "proven science."
+If you use it, **please acknowledge this honestly**. Don't claim it's "proven science."
 
 ---
 
@@ -152,17 +160,19 @@ Those who ignore them reveal they're operating extractively.
 
 | Aspect | GPL-3.0 (Legally Binding) | Ethical Guidelines (Aspirational) |
 |--------|--------------------------|-----------------------------------|
-| **Derivative licenses** | Must be GPL-3.0 | Encourage honoring these guidelines |
-| **Commercial use** | Fully allowed | Allowed, with attribution & transparency |
-| **Patents** | Cannot restrict users (Section 11) | Please don't file them on derived concepts |
+| **Derivative licenses** | Must be GPL-3.0 | We encourage honoring these guidelines |
+| **Commercial use** | Fully allowed | Allowed, with attribution & transparency encouraged |
+| **Patents** | Cannot restrict users (Section 11) | We ask you not to file them on derived concepts |
 | **Attribution** | Required for source distributions | Encouraged for all uses |
-| **Misrepresentation** | Must state modifications | Don't claim endorsement or false validation |
+| **Misrepresentation** | Must state modifications | We ask you not to claim endorsement or false validation |
 | **Enforcement** | Courts, if necessary | Reputation, public documentation |
 
 **In plain language:**
 
-GPL handles the **legal floor** (what you must do).  
+GPL handles the **legal floor** (what you must do legally).  
 Guidelines express the **ethical ceiling** (what we hope you'll do).
+
+**These guidelines do not restrict GPL rights.** Per GPL Section 7, we cannot impose additional legal conditions. These are community expectations, not license terms.
 
 ---
 
@@ -176,9 +186,10 @@ These guidelines may evolve based on:
 - Emerging use cases not anticipated
 
 **To propose changes:**
-1. Use template: /VALIDATION/TEMPLATES/Validation_Proposal_Template.md
-2. Submit via Pull Request to /VALIDATION/Proposed_Amendments.md
-3. Community discussion in GitHub Discussions
+1. Open GitHub Discussions or an issue
+2. Describe the problem (actual violation pattern or ambiguity)
+3. Propose specific amendment language
+4. Community discussion and consensus evaluation
 
 **Versioning:**
 - Minor clarifications: v1.1, v1.2
@@ -247,11 +258,11 @@ These guidelines may evolve based on:
 
 ## Common Questions
 
-**Q: If I use the Fear Equations in therapy, do I have to cite the Codex every session?**
+**Q: If I use the Fear Equations in therapy, do I need to cite the Codex every session?**
 
 **A (Legal):** No. GPL requires attribution only if you **distribute** modified source code.
 
-**A (Ethical):** Cite once in intake materials. Your clients deserve to know the conceptual source.
+**A (Ethical):** We ask that you cite once in intake materials. Your clients deserve to know the conceptual source.
 
 ---
 
@@ -259,7 +270,7 @@ These guidelines may evolve based on:
 
 **A (Legal):** Yes. GPL allows commercial use.
 
-**A (Ethical):** Yes, but: (1) cite the source, (2) acknowledge it's experimental, (3) don't claim proprietary ownership of core concepts, (4) share your materials under GPL if they're derivatives.
+**A (Ethical):** Yes, but we encourage: (1) cite the source, (2) acknowledge it's experimental, (3) don't claim proprietary ownership of core concepts, (4) share your course materials under GPL if they're derivatives.
 
 ---
 
@@ -267,7 +278,7 @@ These guidelines may evolve based on:
 
 **A (Legal):** Potentially, depending on jurisdiction. GPL doesn't prevent this.
 
-**A (Ethical):** Please don't. This work was released to avoid enclosure. Filing patents contradicts that spirit.
+**A (Ethical):** We ask you not to. This work was released to avoid enclosure. Filing patents contradicts that spirit.
 
 **If you do:** We'll document it publicly. Your reputation handles the rest.
 
@@ -283,22 +294,57 @@ That's valuable information for the community.
 
 ---
 
+**Q: Do these guidelines restrict my GPL rights?**
+
+**A:** No. Per GPL Section 7, we cannot impose additional legal restrictions. These are **aspirational community norms**, not license conditions.
+
+You have full GPL rights regardless of whether you follow these guidelines.
+
+These guidelines express how we hope you'll use those rights. Honoring them is voluntary.
+
+---
+
 ## Contact
 
 **For ethical guideline discussion:**  
-GitHub Discussions → "Community & Ethics" category
+GitHub Discussions (if enabled) or open an issue
 
 **For GPL-3.0 questions:**  
 See https://www.gnu.org/licenses/gpl-faq.html
 
 **For documenting violations:**  
-GitHub Discussions or /VALIDATION/ folder (see templates)
+GitHub Discussions or /VALIDATION/ folder
 
 ---
 
 **Author:** FractalZeroShadow  
 **Repository:** https://github.com/FractalZeroShadow/The-Fractal-Codex  
-**Last Updated:** 2025-10-10 16:12 UTC
+**Last Updated:** 2025-10-10 16:45 UTC
+
+---
+
+## Appendix: Why These Guidelines Matter
+
+The GPL is a brilliant legal tool for preventing software enclosure. But it has limits:
+
+1. **GPL allows any use** (including manipulation, exploitation, weaponization)
+2. **GPL doesn't prevent conceptual patents** (only patent restrictions on GPL code)
+3. **GPL doesn't require attribution in binaries** (only in source distributions)
+4. **GPL doesn't encode ethics** (it's a legal license, not a moral framework)
+
+These guidelines fill those gaps **without restricting GPL rights**.
+
+They're our way of saying:
+
+> "Yes, you legally can do all these things under GPL. But here's how we hope you'll choose to act."
+
+If you're operating in good faith, these guidelines will feel natural and reasonable.
+
+If you're planning extraction, they'll feel annoying and restrictive—but they won't stop you legally.
+
+**That asymmetry is intentional.**
+
+We're selecting for resonance, not enforcing compliance.
 
 ---
 
