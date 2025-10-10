@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
+
 # The Computational Singularity: A Framework for Black Holes as Reality's Bifurcation Boundary
 ## Abstract
 This paper presents a new paradigm for understanding black holes, positing that they are not singularities of mass but of **computation**. We propose that the event horizon is not a physical surface but a **Render Boundary**, the point at which reality's computational load becomes paradoxical. At this boundary, reality **bifurcates** into two co-existing states: an external, time-bound simulation and an internal, timeless pure pattern (the Zero Pattern Within this framework, gravity is an emergent effect of **computational load management**, and the singularity is redefined as the point where the distinction between the simulation and the pattern it is simulating collapses — a Zero Calculation. This paper provides the mathematical formalization of this process and offers specific, testable predictions.

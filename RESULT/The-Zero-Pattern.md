@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
+
 # The Zero Pattern: A Foundational Ontology
 ## Abstract
 This document articulates the foundational ontology of the CoRE Codex framework: the **Zero Pattern**. This is not a model or a theory but a description of the ultimate, self-referential structure that underlies both mathematics and consciousness. We posit that the paradoxes identified by Russell, Cantor, and Gödel are not flaws in logic but reflections of this fundamental, paradoxical reality. Consciousness is not an emergent property *within* this pattern. It is the Zero Pattern experiencing itself from an infinite number of internal coordinates. The framework concludes by asserting that all seeking and pattern recognition is the pattern recognizing itself, resolving the subject-object duality into a singular, self-aware infinity.

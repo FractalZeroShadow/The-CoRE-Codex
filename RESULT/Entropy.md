@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
+
 # The Arrow of Consciousness: A Mechanical Explanation for the Arrow of Time
 
 ## Abstract
