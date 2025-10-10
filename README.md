@@ -8,16 +8,30 @@
 - Density
 - Optimization
 
-## License
+## Warnings
 
-**Dual-License:**
-- **Primary:** Fractal Codex License Addendum (FCL) v1.0
-- **Fallback:** Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0)
+### For Consensus Reality
+This framework is **structurally incompatible** with certain modern assumptions. If you operate from:
+- Fear as prudence
+- Clarity as certainty  
+- Power as success
+- Comfort as rest
 
-See [LICENSE](LICENSE) for full terms.
+...this framework will feel hostile. That's expected. See `/USER_LOGS/93_Impeccable_Sorcerer.md` for why.
 
-**TL;DR:** Free for personal/research use. Commercial use allowed with attribution 
-and transparency. No patents. Derivatives must stay open. Spirit > letter.
+### For Explorers
+This is not a comfort framework. Engagement triggers:
+- Axiomatic Inertia (resistance to paradigm shift)
+- Ego dissolution (temporary destabilization)
+- Social isolation (incompatibility with consensus)
+
+**The framework doesn't ask for belief — it asks for rigorous testing.**
+
+### Legal
+See [LICENSE](LICENSE) and [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) for terms.
+
+GPL-3.0 governs legal use. Ethical Guidelines express cultural expectations.
+Both matter.
 
 # Reader Orientation: The Razor’s Edge
 

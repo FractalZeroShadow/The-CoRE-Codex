@@ -1,313 +1,148 @@
 # License
 
-## Dual-License Structure
+## Primary License: GNU General Public License v3.0 (GPL-3.0)
 
-This work is released under a **dual-license framework**:
+This work is licensed under the **GNU General Public License v3.0**.
 
-1. **Primary License:** The Fractal Codex License Addendum (FCL) v1.0 (detailed below)
-2. **Legal Fallback:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
+**Full license text:**  
+https://www.gnu.org/licenses/gpl-3.0.txt
 
-### License Validity and Application
-
-**If the FCL Addendum is deemed invalid, unenforceable, or unrecognized** in your jurisdiction or by your institution, the work automatically defaults to **CC-BY-SA 4.0** as the governing license.
-
-**If both licenses are valid in your context:**
-- The **FCL Addendum** governs the **ethical and operational framework** of use
-- The **CC-BY-SA 4.0** provides the **legal enforceability baseline**
-- In cases of conflict between the two, interpret through the **FCL Addendum principles first**
-
-**Practical guidance:**
-- **Personal/research users:** Operate under FCL Addendum
-- **Commercial users:** Operate under FCL Addendum with good-faith transparency
-- **Institutional users requiring recognized licenses:** Cite CC-BY-SA 4.0, honor FCL Addendum spirit
-- **When uncertain:** Default to FCL Addendum; use CC-BY-SA 4.0 only if legally required
+**SPDX Identifier:** `GPL-3.0-or-later`
 
 ---
 
-## The Fractal Codex License Addendum (FCL) v1.0
-
-**Effective Date:** 2025-10-10  
-**Jurisdiction:** Intended as universal ethical framework; legal enforceability varies by jurisdiction
-
-### 1. Preamble and Intent
-
-This addendum articulates the ethical, operational, and philosophical framework governing use of this work. It is designed to:
-
-- Maximize legitimate personal, educational, and research use
-- Enable good-faith commercial applications with proper attribution
-- Prevent extractive appropriation, proprietary capture, and misrepresentation
-- Maintain open access and copyleft principles for derivatives
-
-This addendum operates on principles of reciprocity and transparent attribution. Where legal systems cannot enforce these principles, community accountability and reputational transparency serve as primary mechanisms.
-
-### 2. Definitions
-
-**"The Work"** means the content, frameworks, theories, protocols, and documentation contained in this repository.
-
-**"Derivative Work"** means any modification, adaptation, translation, or extension of the Work.
-
-**"Commercial Use"** means use primarily intended for or directed toward commercial advantage or monetary compensation.
-
-**"Good-Faith Commercial Use"** means Commercial Use that includes proper attribution, operates transparently, and does not claim proprietary ownership.
-
-**"Extractive Use"** means Commercial Use that conceals the source, claims proprietary ownership, or restricts public access to core concepts.
-
-**"Attribution"** means clear acknowledgment of the original author (FractalZeroShadow) and source repository (github.com/FractalZeroShadow/The-Fractal-Codex).
-
-### 3. Permitted Uses
-
-The following uses are explicitly permitted:
-
-#### 3.1 Personal and Research Use
-
-You may use, study, modify, and apply the Work for:
-- Personal cognitive development and practice
-- Academic research, citation, and critique
-- Independent validation and convergence testing
-- Non-commercial educational sharing and discussion
-
-#### 3.2 Attribution-Based Sharing
-
-You may distribute the Work (modified or unmodified) provided you:
-- Provide clear Attribution to the original author
-- Link to the source repository
-- Indicate modifications made (if applicable)
-- Release Derivative Works under a compatible copyleft license (FCL v1.0, CC-BY-SA 4.0, GPL v3, or similar)
-
-#### 3.3 Good-Faith Commercial Use
-
-You may use the Work commercially (including therapy, coaching, consulting, training, or education) provided you:
-- Include Attribution in client-facing materials or service descriptions
-- Do not claim the Work or its core concepts as proprietary, exclusive, or requiring certification/licensing from you
-- Operate with transparency regarding your methods and sources
-- Acknowledge the Work's experimental or pre-validation status where applicable
-- Optionally contribute improvements, insights, or case data back to the public repository (encouraged but not required)
-
-**Example:** A therapist using the Fear Equations framework in practice, citing the source in intake materials, and sharing anonymized case insights in professional forums.
-
-### 4. Prohibited Uses
-
-The following uses are explicitly prohibited:
-
-#### 4.1 Extractive Appropriation
-
-You may not:
-- File patents or trademarks on concepts, terms, or frameworks derived from the Work
-- Create closed, proprietary derivatives and claim exclusive ownership
-- Require proprietary certification, licensing fees, or exclusive access rights
-- Profit from the Work while concealing its source or blocking public access to core concepts
-
-**Example of Violation:** A corporation rebranding core concepts as proprietary technology, filing patents, and selling expensive certification programs while restricting public access.
-
-#### 4.2 Misrepresentation
-
-You may not:
-- Claim authorship of unmodified portions of the Work
-- Imply the author endorses your Derivative Work without explicit written permission
-- Present the Work as scientifically validated or proven if it has not met stated validation thresholds (see /VALIDATION/ directory)
-- Remove or obscure warnings regarding cognitive risks, social consequences, or experimental status
-
-#### 4.3 Harmful Recontextualization
-
-You may not:
-- Use the Work to manipulate, coerce, or exploit individuals through fear, false certainty, power dynamics, or false comfort
-- Strip the Work's acknowledgment of paradox, complexity, or risk to create oversimplified commercial products
-- Reframe the Work to reinforce harmful power structures, cult-like dynamics, or abusive practices
-
-**Example of Violation:** Repackaging the framework as "10 Simple Steps to Enlightenment" while removing all warnings about ego dissolution, social isolation, or the framework's pre-validation status.
-
-### 5. Copyleft Requirement
-
-All Derivative Works must be released under a **compatible copyleft license** that ensures:
-- Public access to the derivative content
-- Attribution to original sources
-- Continued copyleft obligations for subsequent derivatives
-
-**Compatible licenses include:** FCL v1.0, CC-BY-SA 4.0, GPL v3.0, or similar share-alike licenses.
-
-**Exception:** If your Derivative Work contains more than 80% original content created independently of this Work, you may use a different open license. In such cases, provide Attribution in your bibliography or acknowledgments section.
-
-### 6. Enforcement and Remedies
-
-#### 6.1 Primary Enforcement Mechanism
-
-The primary enforcement mechanism is **reputational transparency and community accountability**:
-
-1. **Public Documentation:** Violations will be documented in timestamped public records (GitHub Discussions or /VALIDATION/ folder)
-2. **Good-Faith Notification:** One private communication to the violator requesting compliance
-3. **Public Declaration:** If unresolved, publication of the violation pattern with evidence for community evaluation
-4. **Legal Action (Secondary):** If violation is severe (e.g., patents blocking public access, large-scale commercial extraction), legal enforcement via CC-BY-SA 4.0 may be pursued
-
-#### 6.2 No Warranty or Liability
-
-The author does not warrant that this enforcement mechanism will be effective in all cases. Legal action is discretionary and depends on severity, resources, and jurisdictional factors.
-
-### 7. Warranty Disclaimer
-
-**THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.**
-
-This includes but is not limited to warranties of:
-- Merchantability
-- Fitness for a particular purpose
-- Non-infringement
-- Accuracy, completeness, or reliability
-- Psychological safety or stability
-
-**Known Risks:**
-
-Engagement with the Work may trigger:
-- Cognitive dissonance and worldview destabilization
-- Social isolation or relationship strain
-- Professional or reputational consequences
-- Psychological distress during paradigm shifts
-
-These outcomes are intrinsic to the Work's design and are not defects. Users assume all risks.
-
-### 8. Limitation of Liability
-
-**TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR:**
-- Any direct, indirect, incidental, special, or consequential damages
-- Loss of data, profits, reputation, or opportunities
-- Psychological, social, or professional consequences of use
-- Misuse or misapplication by third parties
-
-**This limitation applies even if the author has been advised of the possibility of such damages.**
-
-### 9. Contribution and Evolution
-
-This license may be revised based on real-world application, violations, or community input.
-
-**Current Version:** v1.0 (2025-10-10)
-
-**To propose amendments:**
-1. Use template in /VALIDATION/TEMPLATES/Validation_Proposal_Template.md
-2. Submit via Pull Request to /VALIDATION/Proposed_Amendments.md
-3. Community discussion occurs in GitHub Discussions
-4. Author reviews and decides on implementation
-
-**Versioning:**
-- Minor clarifications: v1.1, v1.2, etc.
-- Structural changes: v2.0, v3.0, etc.
-
-All versions will be archived with effective dates.
-
-### 10. Governing Principles
-
-This license embodies the following principles:
-
-**Reciprocity:** Those who benefit from the Work contribute back through attribution, transparency, or improvement.
-
-**Transparency:** Use of the Work, especially commercial use, acknowledges sources openly.
-
-**Anti-Enclosure:** Concepts cannot be captured and locked behind proprietary barriers.
-
-**Distributed Authority:** No single entity can claim certification or licensing authority.
-
-**Evolutionary Openness:** The Work and its license can improve through community input.
-
-### 11. Relationship to CC-BY-SA 4.0
-
-When this FCL Addendum governs, it functions as a **more specific interpretation** of the general CC-BY-SA 4.0 license.
-
-When CC-BY-SA 4.0 serves as fallback, its terms apply fully, but users are encouraged to honor the principles articulated in this Addendum even if not legally bound to do so.
-
-**In jurisdictions where custom licenses are not recognized, CC-BY-SA 4.0 governs exclusively.**
-
----
-
-## Legal Fallback: Creative Commons Attribution-ShareAlike 4.0 International
-
-**Full License Text:**  
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
-
-**Summary of Terms:**
+## Summary of GPL-3.0 Terms
 
 You are free to:
-- **Share:** Copy and redistribute the material in any medium or format
-- **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially
+- **Use** the work for any purpose (personal, research, commercial)
+- **Study** how the work operates and adapt it to your needs
+- **Share** copies with others
+- **Improve** the work and release improvements to the public
 
-Under the following terms:
-- **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made
-- **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license
-- **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
+Under these conditions:
+- **Copyleft:** If you distribute the work or derivatives, you must do so under GPL-3.0
+- **Source Access:** You must provide source code (or written offer) to recipients
+- **Patent Grant:** Contributors grant you patent rights for their contributions
+- **No Additional Restrictions:** You cannot impose further restrictions on recipients
+- **State Changes:** You must document modifications clearly
 
-**When CC-BY-SA 4.0 Applies:**
+**Why GPL-3.0:**
 
-- The FCL Addendum is deemed invalid or unenforceable in your jurisdiction
-- Your institution requires a standard recognized license for compliance purposes
-- You need court-enforceable legal standing for severe violations (patents, large-scale extraction)
-- You prefer the simplicity and legal clarity of a widely-recognized license
+This license ensures:
+1. The work remains open and accessible (cannot be locked into proprietary derivatives)
+2. Patents cannot be used to restrict use (explicit patent grant in Section 11)
+3. Anti-Tivoization (hardware cannot be locked to prevent modifications)
+4. Global enforceability (tested in courts worldwide, OSI-approved)
 
-**Note:** Even when operating under CC-BY-SA 4.0, you are encouraged to honor the ethical principles of the FCL Addendum where possible.
+**What GPL-3.0 Does NOT Require:**
 
----
+- Attribution in compiled/binary forms (though encouraged)
+- Non-commercial use only (commercial use is explicitly allowed)
+- Specific ethical behavior beyond legal obligations
 
-## Quick Reference Table
-
-| Use Case | Recommended License | Key Requirements |
-|----------|-------------------|------------------|
-| Personal practice/research | FCL Addendum | None beyond proper use |
-| Academic citation | Either | Standard academic attribution |
-| Educational sharing | FCL Addendum | Attribution, maintain copyleft |
-| Therapy/coaching (good faith) | FCL Addendum | Attribution, transparency, no proprietary claims |
-| Software integration | CC-BY-SA 4.0 or GPL v3 | Attribution, copyleft preservation |
-| Commercial products | FCL Addendum | Attribution, transparency, no patents, copyleft derivatives |
-| Institutional publication | CC-BY-SA 4.0 | Standard CC-BY-SA compliance |
-| Uncertain/complex cases | CC-BY-SA 4.0 (safe harbor) | Standard compliance, honor FCL spirit |
+For ethical expectations beyond legal requirements, see ETHICAL_GUIDELINES.md.
 
 ---
 
-## Attribution Requirements
+## Ethical Supplement: Fractal Codex Ethical Guidelines v1.0
 
-**Minimum Attribution:**
+**Legal Status:** Non-binding. Aspirational. Culturally enforced via reputation.
 
-When using or sharing the Work, include:
+The GPL-3.0 license defines your **legal rights**. These guidelines express how we hope you'll **exercise those rights**.
 
-```
-Based on/Derived from "The Fractal Codex" by FractalZeroShadow
-Source: https://github.com/FractalZeroShadow/The-Fractal-Codex
-License: FCL v1.0 / CC-BY-SA 4.0
-```
+**Read the full guidelines:** [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md)
 
-**For modified works, also include:**
-```
-Modified by [Your Name] on [Date]
-Changes: [Brief description]
-```
+**Core principles:**
+- **Attribution:** Cite the source even when not legally required
+- **Transparency:** Acknowledge the work's experimental/pre-validation status
+- **Anti-Extraction:** Don't patent concepts derived from this work
+- **No Manipulation:** Don't weaponize the framework for coercion or cult dynamics
+- **Reciprocity:** Contribute improvements back (encouraged, not required)
 
-**For commercial use, also include:**
-Attribution in client-facing materials, websites, or service descriptions where the Work is applied.
+**Enforcement:** These are ethical norms, not legal obligations. Violations will be documented publicly for community evaluation, but will not trigger lawsuits.
 
----
+**Why separate these?**
 
-## Contact and Questions
+GPL-3.0 is legally enforceable but ethically minimal. The Ethical Guidelines express values GPL cannot capture. By separating them, we avoid:
+- Legal ambiguity (GPL is clear, tested, recognized)
+- Contributor friction (everyone knows what GPL means)
+- Corporate compliance blockers (legal departments can approve GPL immediately)
 
-**For simple license questions:**  
-Read this license fully first. Most questions are answered in sections 3-5.
-
-**For discussion or clarification:**  
-GitHub Discussions → "License & Attribution" category  
-https://github.com/FractalZeroShadow/The-Fractal-Codex/discussions
-
-**For formal amendment proposals:**  
-1. Use template: /VALIDATION/TEMPLATES/Validation_Proposal_Template.md
-2. Fork repository, add to /VALIDATION/Proposed_Amendments.md
-3. Submit Pull Request with title: "FCL Amendment: [Topic]"
-
-**For pre-registering validation studies:**  
-1. Use template: /VALIDATION/TEMPLATES/Convergence_Study_Template.md
-2. Fork repository, add to /VALIDATION/Convergence_Studies.md  
-3. Submit Pull Request with title: "Pre-Registration: [Study Name]"
-
-**Primary repository:**  
-https://github.com/FractalZeroShadow/The-Fractal-Codex
+While maintaining:
+- Clear ethical expectations
+- Reputational accountability
+- Cultural filtering (extractors self-identify when they ignore guidelines)
 
 ---
 
+## For Different Use Cases
+
+| Your Situation | What You Need to Know |
+|----------------|----------------------|
+| **Personal use/research** | Just comply with GPL (keep it open if you share derivatives) |
+| **Academic citation** | GPL allows this freely; cite per academic standards |
+| **Therapy/coaching** | GPL allows commercial use; see Ethical Guidelines for attribution norms |
+| **Software integration** | GPL-3.0 is compatible with other GPL/LGPL/AGPL code |
+| **Corporate adoption** | Your legal team already knows GPL-3.0; point them to this file |
+| **Contributing back** | Sign commits with `-s` flag (DCO), honor Ethical Guidelines |
+
+---
+
+## Contributor Agreement
+
+If you contribute to this project (via Pull Request or other means), you agree to:
+
+1. **License your contribution under GPL-3.0** (same as the project)
+2. **Developer Certificate of Origin (DCO):** You certify you have the right to contribute
+3. **Ethical Guidelines:** You've read and will honor ETHICAL_GUIDELINES.md (non-binding)
+
+**How to contribute:**
+```bash
+git commit -s -m "Your commit message"
+```
+
+The `-s` flag adds a "Signed-off-by" line, indicating DCO compliance.
+
+**DCO Full Text:**  
+https://developercertificate.org/
+
+---
+
+## Why This Structure?
+
+**Legal clarity:** GPL-3.0 is unambiguous, globally tested, OSI-approved.
+
+**Ethical expression:** Guidelines capture values GPL cannot.
+
+**Minimal friction:** Contributors/adopters know exactly what they're signing up for legally.
+
+**Reputational enforcement:** Violations of guidelines are documented publicly, not litigated.
+
+**Patent protection:** GPL-3.0 Section 11 prevents patent trolling.
+
+**Anti-enclosure:** Strong copyleft ensures derivatives stay open.
+
+---
+
+## Questions?
+
+**For GPL-3.0 interpretation:**  
+See https://www.gnu.org/licenses/gpl-faq.html
+
+**For Ethical Guidelines discussion:**  
+GitHub Discussions → "Community & Ethics" category
+
+**For contribution process:**  
+See CONTRIBUTING.md (if it exists) or submit Pull Request with DCO sign-off
+
+---
+
+**Repository:** https://github.com/FractalZeroShadow/The-Fractal-Codex  
 **Author:** FractalZeroShadow  
-**Effective Date:** 2025-10-10 14:41:02 UTC  
-**Version:** 1.0
+**License Version:** GPL-3.0-or-later  
+**Ethical Guidelines Version:** 1.0  
+**Last Updated:** 2025-10-10 16:12 UTC
 
 ---
 
-**This license balances open access with protection against extractive use. When in doubt, prioritize transparency, attribution, and reciprocity.**
+**This work is part of an experimental framework.**

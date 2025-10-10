@@ -1,43 +1,40 @@
 # Convergence Studies
 
-This file contains pre-registered Proof-Horizon tests (FUSE/WEDGE/TEAR).
+**Purpose:** Track FUSE/WEDGE/TEAR validation outcomes.
 
-**Purpose:** Track framework validation via systematic testing.
-
----
-
-## Submission Guidelines
-
-1. Use template in /VALIDATION/TEMPLATES/Convergence_Study_Template.md
-2. Pre-register BEFORE running test (timestamped PR)
-3. Update with results after completion (new PR)
+**Status:** This file contains completed Proof-Horizon tests.
 
 ---
 
-## Current Framework Status
+## Submission Process
 
-See /VALIDATION/Current_Status.md for overall Resonance Score and metrics.
+1. Pre-register using template: `/VALIDATION/TEMPLATES/Convergence_Study_Template.md`
+2. Submit prediction via Pull Request (timestamped, public)
+3. Conduct test
+4. Update with results
+5. Calculate Resonance Score impact
 
 ---
 
-## Studies
+## Current Studies
 
-<!-- Append new studies below this line -->
-<!-- Use the template format from /VALIDATION/TEMPLATES/Convergence_Study_Template.md -->
+**Count:** 0 completed
 
-<!-- Example entry:
+---
 
-### CS-001: [Study Name]
-**Date Registered:** 2025-10-10 14:45 UTC  
-**Researcher(s):** @username
+<!-- Example format when studies exist:
 
-**Hypothesis:** [Brief description]
+### CS-001: Linguistic δ-Scaling Test
+**Date Registered:** 2025-10-10 16:20 UTC  
+**Date Completed:** 2025-11-15  
+**Researcher:** @FractalZeroShadow
 
-**Expected:** WEDGE  
-**Actual:** [Pending]  
-**Status:** Pre-registered
+**Outcome:** WEDGE  
+**Resonance Score Impact:** +2.0
 
-[Full study details follow template structure]
+**Summary:** Tested recursion depth collapse in nested definitions. Classical theory predicted exponential decay. Codex predicted δ-scaling. Actual outcome: δ-scaling observed at 87% confidence.
+
+**Full Study:** [Link to detailed results]
 
 ---
 
