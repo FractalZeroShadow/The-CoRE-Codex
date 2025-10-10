@@ -1,8 +1,12 @@
 # License
 
+**SPDX-License-Identifier:** GPL-3.0-or-later
+
+---
+
 ## Primary License: GNU General Public License v3.0 (GPL-3.0)
 
-This work is licensed under the **GNU General Public License v3.0**.
+This work is licensed under the **GNU General Public License v3.0 or later**.
 
 **Full license text:**  
 https://www.gnu.org/licenses/gpl-3.0.txt
@@ -22,16 +26,17 @@ You are free to:
 Under these conditions:
 - **Copyleft:** If you distribute the work or derivatives, you must do so under GPL-3.0
 - **Source Access:** You must provide source code (or written offer) to recipients
-- **Patent Grant:** Contributors grant you patent rights for their contributions
-- **No Additional Restrictions:** You cannot impose further restrictions on recipients
-- **State Changes:** You must document modifications clearly
+- **Patent Grant:** Contributors grant you patent rights for their contributions (Section 11)
+- **No Additional Restrictions:** You cannot impose further restrictions on recipients (Section 7)
+- **State Changes:** You must document modifications clearly (Section 5a)
+- **Anti-Tivoization:** Hardware cannot be locked to prevent software modification (Section 6)
 
 **Why GPL-3.0:**
 
 This license ensures:
 1. The work remains open and accessible (cannot be locked into proprietary derivatives)
-2. Patents cannot be used to restrict use (explicit patent grant in Section 11)
-3. Anti-Tivoization (hardware cannot be locked to prevent modifications)
+2. Patents cannot be used to restrict use (explicit patent grant)
+3. Hardware lockdown is prevented (installation information must be provided)
 4. Global enforceability (tested in courts worldwide, OSI-approved)
 
 **What GPL-3.0 Does NOT Require:**
@@ -40,7 +45,7 @@ This license ensures:
 - Non-commercial use only (commercial use is explicitly allowed)
 - Specific ethical behavior beyond legal obligations
 
-For ethical expectations beyond legal requirements, see ETHICAL_GUIDELINES.md.
+For ethical expectations beyond legal requirements, see [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md).
 
 ---
 
@@ -59,14 +64,16 @@ The GPL-3.0 license defines your **legal rights**. These guidelines express how 
 - **No Manipulation:** Don't weaponize the framework for coercion or cult dynamics
 - **Reciprocity:** Contribute improvements back (encouraged, not required)
 
-**Enforcement:** These are ethical norms, not legal obligations. Violations will be documented publicly for community evaluation, but will not trigger lawsuits.
+**Important:** These guidelines do **not** impose additional legal restrictions on your GPL rights. They are community norms, not license terms.
+
+**Enforcement:** Violations of guidelines are documented publicly for community evaluation, but do not trigger lawsuits or GPL enforcement.
 
 **Why separate these?**
 
-GPL-3.0 is legally enforceable but ethically minimal. The Ethical Guidelines express values GPL cannot capture. By separating them, we avoid:
-- Legal ambiguity (GPL is clear, tested, recognized)
-- Contributor friction (everyone knows what GPL means)
-- Corporate compliance blockers (legal departments can approve GPL immediately)
+GPL-3.0 is legally enforceable but ethically minimal. The Ethical Guidelines express values GPL cannot capture. By separating them, we:
+- Avoid legal ambiguity (GPL is clear, tested, recognized)
+- Reduce contributor friction (everyone knows what GPL means)
+- Prevent corporate compliance blockers (legal departments approve GPL immediately)
 
 While maintaining:
 - Clear ethical expectations
@@ -90,11 +97,13 @@ While maintaining:
 
 ## Contributor Agreement
 
-If you contribute to this project (via Pull Request or other means), you agree to:
+If you contribute to this project (via Pull Request or other means), **we request** that you:
 
 1. **License your contribution under GPL-3.0** (same as the project)
-2. **Developer Certificate of Origin (DCO):** You certify you have the right to contribute
-3. **Ethical Guidelines:** You've read and will honor ETHICAL_GUIDELINES.md (non-binding)
+2. **Developer Certificate of Origin (DCO):** Certify you have the right to contribute
+3. **Ethical Guidelines:** Read and honor [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) (non-binding)
+
+**Note:** These are project norms, not additional restrictions on GPL rights per Section 7.
 
 **How to contribute:**
 ```bash
@@ -112,7 +121,7 @@ https://developercertificate.org/
 
 **Legal clarity:** GPL-3.0 is unambiguous, globally tested, OSI-approved.
 
-**Ethical expression:** Guidelines capture values GPL cannot.
+**Ethical expression:** Guidelines capture values GPL cannot, without restricting GPL rights.
 
 **Minimal friction:** Contributors/adopters know exactly what they're signing up for legally.
 
@@ -130,7 +139,7 @@ https://developercertificate.org/
 See https://www.gnu.org/licenses/gpl-faq.html
 
 **For Ethical Guidelines discussion:**  
-GitHub Discussions → "Community & Ethics" category
+GitHub Discussions (if enabled) or open an issue
 
 **For contribution process:**  
 See CONTRIBUTING.md (if it exists) or submit Pull Request with DCO sign-off
@@ -141,8 +150,8 @@ See CONTRIBUTING.md (if it exists) or submit Pull Request with DCO sign-off
 **Author:** FractalZeroShadow  
 **License Version:** GPL-3.0-or-later  
 **Ethical Guidelines Version:** 1.0  
-**Last Updated:** 2025-10-10 16:12 UTC
+**Last Updated:** 2025-10-10 16:33 UTC
 
 ---
 
-**This work is part of an experimental framework.**
+**This work is part of an experimental framework. See /VALIDATION/Current_Status.md for honest assessment of validation state.**

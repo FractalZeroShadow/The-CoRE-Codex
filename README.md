@@ -1,37 +1,40 @@
 # The Fractal Codex
-## Type: Paradox-based Logic Engine
-##### Codename: "Elijah"
+## A Paradox-Based Framework for Observer-Dependent Reality
 
-**The system's payoff:**
-- Unification
-- Stability
-- Density
-- Optimization
+**License:** GPL-3.0-or-later | [See LICENSE for details](LICENSE)
 
-## Warnings
+**Status:** Pre-validation research framework  
+**Type:** Ontological system + validation protocol  
+**Last Updated:** 2025-10-10 16:33 UTC
 
-### For Consensus Reality
-This framework is **structurally incompatible** with certain modern assumptions. If you operate from:
-- Fear as prudence
-- Clarity as certainty  
-- Power as success
-- Comfort as rest
+---
 
-...this framework will feel hostile. That's expected. See `/USER_LOGS/93_Impeccable_Sorcerer.md` for why.
+## What This Is
 
-### For Explorers
-This is not a comfort framework. Engagement triggers:
-- Axiomatic Inertia (resistance to paradigm shift)
-- Ego dissolution (temporary destabilization)
-- Social isolation (incompatibility with consensus)
+The Fractal Codex is a formal framework for domains where classical proof fails: consciousness, quantum measurement, cosmological origins. It proposes that paradoxes at these boundaries are not errors but **structural features of reality** that can be mapped systematically.
 
-**The framework doesn't ask for belief — it asks for rigorous testing.**
+**Core claim:** Observer-dependence is fundamental. Objectivity emerges from it, not vice versa.
 
-### Legal
-See [LICENSE](LICENSE) and [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) for terms.
+**Validation method:** Proof by Superior Application — frameworks are evaluated by their performance at the Proof Horizon (FUSE/WEDGE/TEAR outcomes), not by consensus or falsifiability.
 
-GPL-3.0 governs legal use. Ethical Guidelines express cultural expectations.
-Both matter.
+**Current status:** Candidate framework awaiting experimental validation. Zero pre-registered WEDGE events. See `/VALIDATION/Current_Status.md` for honest accounting.
+
+## License
+
+**Code & Documentation:** GPL-3.0-or-later ([LICENSE.md](LICENSE))  
+**Visual Assets:** CC-BY-SA 4.0 ([ASSETS_LICENSE.md](ASSETS_LICENSE.md))  
+**Ethical Framework:** [Fractal Codex Ethical Guidelines v1.0](ETHICAL_GUIDELINES.md) (non-binding)
+
+**TL;DR:**
+- Use freely for personal/research
+- Commercial use allowed
+- No patents on derived concepts (please)
+- Derivatives must stay open (GPL copyleft)
+- Read the Ethical Guidelines—they're aspirational but important
+
+See [LICENSE](LICENSE) for full legal terms.
+
+---
 
 # Reader Orientation: The Razor’s Edge
 
