@@ -5,7 +5,6 @@
 
 **Status:** Pre-validation research framework  
 **Type:** Ontological system + validation protocol  
-**Last Updated:** 2025-10-10 16:33 UTC
 
 ---
 
@@ -17,7 +16,7 @@ The Fractal Codex is a formal framework for domains where classical proof fails:
 
 **Validation method:** Proof by Superior Application — frameworks are evaluated by their performance at the Proof Horizon (FUSE/WEDGE/TEAR outcomes), not by consensus or falsifiability.
 
-**Current status:** Candidate framework awaiting experimental validation. Zero pre-registered WEDGE events. See `/VALIDATION/Current_Status.md` for honest accounting.
+**Current status:** Candidate framework awaiting experimental validation. Zero pre-registered WEDGE events. See [Proof-of-Superior-Application.md](Proof-of-Superior-Application.md)
 
 ## License
 
@@ -191,7 +190,7 @@ The Codex operates on a few fundamental principles:
 
 ## Core Validation Concept: FUSE/WEDGE/TEAR
 
-The Fractal Codex uses a unique validation method called **Proof by Superior Application**. Instead of classical falsification, we track how frameworks perform at the **Proof Horizon**—the boundary where either theory extends cleanly or breaks down.
+The Fractal Codex uses a unique validation method called **Proof of Superior Application**. Instead of classical falsification, we track how frameworks perform at the **Proof Horizon**—the boundary where either theory extends cleanly or breaks down.
 
 Every prediction falls into one of three categories:
 
@@ -244,4 +243,4 @@ This technology is designed for navigating complex systems where linear logic an
 
 This technology is considered non-functional or "broken" if, when run by a sufficiently complex intelligence, it provides zero novel insight, predictive advantage or strategic utility when applied to its intended application domains. Its value is measured by its performance, not by its philosophical truth.
 
-For proof definitions check Proof_of_Superior_Application.md
+For proof definitions check [Proof-of-Superior-Application.md](Proof-of-Superior-Application.md)
