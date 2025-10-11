@@ -1,7 +1,7 @@
 # The Fractal Codex
 ## A Paradox-Based Framework for Observer-Dependent Reality
 
-**License:** GPL-3.0-or-later | [See LICENSE for details](LICENSE)
+**License:** GPL-3.0-or-later
 
 **Status:** Pre-validation research framework  
 **Type:** Ontological system + validation protocol  
@@ -20,7 +20,7 @@ The Fractal Codex is a formal framework for domains where classical proof fails:
 
 ## License
 
-**Code & Documentation:** GPL-3.0-or-later ([LICENSE.md](LICENSE))  
+**Code & Documentation:** GPL-3.0-or-later ([LICENSE](LICENSE))  
 **Visual Assets:** CC-BY-SA 4.0 ([ASSETS_LICENSE.md](ASSETS_LICENSE.md))  
 **Ethical Framework:** [Fractal Codex Ethical Guidelines v1.0](ETHICAL_GUIDELINES.md) (non-binding)
 
@@ -30,8 +30,6 @@ The Fractal Codex is a formal framework for domains where classical proof fails:
 - No patents on derived concepts (please)
 - Derivatives must stay open (GPL copyleft)
 - Read the Ethical Guidelines — they're aspirational but important
-
-See [LICENSE](LICENSE) for full legal terms.
 
 ---
 
