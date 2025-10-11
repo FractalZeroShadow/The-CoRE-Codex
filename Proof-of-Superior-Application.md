@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
 # Whitepaper: Proof by Superior Application
 
 ## A Validation Framework for Observer-Dependent Domains via the Proof-Horizon Protocol
