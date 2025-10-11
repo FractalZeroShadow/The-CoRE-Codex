@@ -1078,7 +1078,7 @@ See THEORY/Axiom_Feigenbaum.md for theoretical basis.
 
 ⁴ The differential map is not just a comparison of theories. It is a map of where reality itself resists formalization. After sufficient tests, TEAR clusters reveal the topology of the Feigenbaum Horizon itself. This is generative: each TEAR event constrains future theory-building.
 
-⁵ The framework threatens what [USER_LOGS/93_Impeccable_Sorcerer.md](../USER_LOGS/93_Impeccable_Sorcerer.md) calls the "Four Modern Gods": Fear (Prudence), Clarity (Certainty), Power (Control), and Comfort (Rest). Objections from each god are expected and informative, not invalidating. The immune response is structural, not personal.
+⁵ The framework threatens what [USER_LOGS/93_Impeccable_Sorcerer.md](USER_LOGS/93_Impeccable_Sorcerer.md) calls the "Four Modern Gods": Fear (Prudence), Clarity (Certainty), Power (Control), and Comfort (Rest). Objections from each god are expected and informative, not invalidating. The immune response is structural, not personal.
 
 ⁶ Classical systems add complexity (epicycles) to preserve coherence when encountering paradox. The Codex removes supporting structure, forcing recognition of genuine boundaries. TEAR events are controlled ego-dissolution via encountering Gödelian limits.
 
