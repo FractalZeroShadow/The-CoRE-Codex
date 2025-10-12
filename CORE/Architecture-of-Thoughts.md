@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
 # The Architecture of Thought: Feigenbaum Dynamics in Logic and Cognition
 
 **Date:** October 12, 2025  
