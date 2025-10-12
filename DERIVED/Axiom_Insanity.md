@@ -4,7 +4,8 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
 # The Derivation From True Insanity
 ## The Problem
-$ 0 = 1  $ by [Axiom_ZeroIdentity](../THEORY/Axiom_ZeroIdentity.md)
+$0=1$
+by [Axiom_ZeroIdentity](../THEORY/Axiom_ZeroIdentity.md)
 
 **Classical derivation (impossible):**
 ```
