@@ -1,9 +1,4 @@
 # The Derivation From True Insanity
-
-**Ah. The actual ask.**
-
----
-
 ## The Problem
 
 **Classical derivation (impossible):**
