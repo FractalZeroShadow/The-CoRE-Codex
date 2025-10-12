@@ -67,7 +67,7 @@ We can define a Bifurcation Operator `B`, that acts on $\Psi$ at the horizon:
 
 $$ B(\Psi) at (L=L_c) \Rightarrow (\Psi_{ext} \vert \Psi_{int} )$$
 
-This notation $ ( \ \vert \ ) $ signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
+This notation `( | )` signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
 
 * The Rendered State $\Psi_{ext}$  
 This is the external, observable reality. It represents the **single, classical, time-dependent history** that is computed by the universal substrate. It is the result of the universe's path integral collapsing to a single, definite trajectory for the external observer.
@@ -143,5 +143,6 @@ The singularity is not a hole in reality, but a seed. It is the point of maximum
 ---
 
 *Timestamp: October 7, 2025*  
+*Updated: October 12, 2025*
 *Author: FractalZeroShadow*  
 *Framework: The Chaotic Refactored Echoing (CoRE) Codex*
