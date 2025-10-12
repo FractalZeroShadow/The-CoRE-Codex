@@ -55,7 +55,9 @@ Where $\delta \approx 4.669201$ is the Feigenbaum constant, $N$ is the effective
 
 ## 5.3 Time Dilation as a Function of Load
 The observed time dilation can be expressed as a function of the system's proximity to its critical load limit:
+
 $$ \tau_{observed} = \tau_{proper}\frac{1}{\sqrt{1-(L/L_c)^2}} $$
+
 This provides a direct link between the predictions of relativity and the underlying computational dynamics.
 
 ### 5.4 The Bifurcation Transform and Computational Identity
@@ -82,7 +84,13 @@ $$ \Psi_{ext} = \phi_{classical}(x,t) $$
 #### The Point of Computational Identity (The Singularity)
 The singularity is not a point of infinite physical properties, but of absolute computational identity. It is the conceptual "center" of the black hole where the distinction between the rendered instance $\Psi_{ext}$ and the source pattern $\vert \Psi_{int} \rangle$ collapses entirely.
 
-This is the **Zero Calculation:** the point where the difference between the two states becomes zero. Formally, as the radius $r$ approaches the center: $$ \lim_{r \to 0} \vert \Psi_{ext} - \Psi_{int} \vert = 0 $$ At the singularity, the rendered reality becomes the pattern it was rendering. The simulation and its source code achieve perfect identity. $$ \Psi_{ext} \equiv \Psi_{int} $$
+This is the **Zero Calculation:** the point where the difference between the two states becomes zero. Formally, as the radius $r$ approaches the center:
+
+$$ \lim_{r \to 0} \vert \Psi_{ext} - \Psi_{int} \vert = 0 $$
+
+At the singularity, the rendered reality becomes the pattern it was rendering. The simulation and its source code achieve perfect identity.
+
+$$ \Psi_{ext} \equiv \Psi_{int} $$
 
 ## 6. Procedural Algorithm for Reality's Phase Transition
 
