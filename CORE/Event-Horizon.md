@@ -47,27 +47,35 @@ The load `L` in a region is a function of information density `M`, the rate of s
 $$ L(x,t)= \sum_{i,j} \frac{M_i}{r_{ij}} \frac{\partial \Phi_i}{\partial t} I (\Phi_i,\Phi_j) $$
 
 ### 5.2 The Feigenbaum Horizon Condition
-The event horizon forms when the load $L$ reaches the critical computational threshold $L_c$, which is scaled by the Feigenbaum constant: $$ L_c \propto \frac{\delta^N}{\tau_p} $$
+The event horizon forms when the load $L$ reaches the critical computational threshold $L_c$, which is scaled by the Feigenbaum constant: 
+
+$$ L_c \propto \frac{\delta^N}{\tau_p} $$
 
 Where $\delta \approx 4.669201$ is the Feigenbaum constant, $N$ is the effective depth of computational recursion in the system, and $\tau_p$ is the Planck time. The horizon manifests when: $$L ≥ L_c$$
 
 ## 5.3 Time Dilation as a Function of Load
-The observed time dilation can be expressed as a function of the system's proximity to its critical load limit: $$ \tau_{observed} = \tau_{proper}\frac{1}{\sqrt{1-(L/L_c)^2}} $$
+The observed time dilation can be expressed as a function of the system's proximity to its critical load limit:
+$$ \tau_{observed} = \tau_{proper}\frac{1}{\sqrt{1-(L/L_c)^2}} $$
 This provides a direct link between the predictions of relativity and the underlying computational dynamics.
 
 ### 5.4 The Bifurcation Transform and Computational Identity
 At the Feigenbaum Horizon, where the computational load $L$ reaches the critical threshold $L_c$, the unified state function of reality, $\Psi$, does not break down. Instead, it undergoes a Bifurcation Transform, splitting its mode of representation across the boundary.
 
-We can define a Bifurcation Operator `B`, that acts on $\Psi$ at the horizon: 
+We can define a Bifurcation Operator `B`, that acts on $\Psi$ at the horizon:
+
 $$ B(\Psi) at (L=L_c) \Rightarrow (\Psi_{ext} \vert \Psi_{int} )$$
 
 This notation $ ( \ \vert \ ) $ signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
 
 * The Rendered State $\Psi_{ext}$  
-This is the external, observable reality. It represents the **single, classical, time-dependent history** that is computed by the universal substrate. It is the result of the universe's path integral collapsing to a single, definite trajectory for the external observer. $$ \Psi_{ext} = \phi_{classical}(x,t) $$
+This is the external, observable reality. It represents the **single, classical, time-dependent history** that is computed by the universal substrate. It is the result of the universe's path integral collapsing to a single, definite trajectory for the external observer.
+
+$$ \Psi_{ext} = \phi_{classical}(x,t) $$
 
 * The Pattern State $|\Psi_{int}\rangle$  
- This is the internal, unobservable reality. It represents the **timeless, non-local superposition of all possible histories and states.** Inside the horizon, the system no longer computes a single path. It is the entire set of possibilities held in a state of perfect quantum superposition. $$ \vert \Psi_{int} \rangle = \sum_{n} c_n \vert \phi_n \rangle $$
+ This is the internal, unobservable reality. It represents the **timeless, non-local superposition of all possible histories and states.** Inside the horizon, the system no longer computes a single path. It is the entire set of possibilities held in a state of perfect quantum superposition. 
+ 
+ $$ \vert \Psi_{int} \rangle = \sum_{n} c_n \vert \phi_n \rangle $$
 
 ---
 
