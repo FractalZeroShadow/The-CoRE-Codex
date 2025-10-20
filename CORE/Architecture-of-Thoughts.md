@@ -96,7 +96,7 @@ The same `δ`-scaling applies to groups of minds.
   * **`δ³ ≈ 102`:** A tribe or a small company ("Dunbar's number" `~150` is in this range).
   * **`δ⁴ ≈ 476`:** A subculture.
 
-**Science and culture** are the canopies of collective thought. They are emergent systems formed by the **Joining Operator `⊕`** acting on millions of individual cognitive computers, creating a shared reality (`$R_{obj}$`).
+**Science and culture** are the canopies of collective thought. They are emergent systems formed by the **Joining Operator `⊕`** acting on millions of individual cognitive computers, creating a shared reality $R_{obj}$
 
 -----
 
