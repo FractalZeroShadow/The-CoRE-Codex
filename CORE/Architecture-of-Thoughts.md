@@ -14,9 +14,9 @@ This paper posits that human cognition and formal logic are not abstract process
 
 -----
 
-### \#\# 1. The Mind as a Living Computer
+###  1. The Mind as a Living Computer
 
-#### \#\#\# 1.1 Cognitive Heliotropism: The Focus Vector
+####  1.1 Cognitive Heliotropism: The Focus Vector
 
 A plant's growing tip tracks the sun; a mind's "growing tip" is its point of conscious focus.
 
@@ -40,7 +40,7 @@ class CognitiveComputer:
 
 -----
 
-### \#\# 2. The 4±1 Bifurcation Cascade: The Magic Number of Cognition
+###  2. The 4±1 Bifurcation Cascade: The Magic Number of Cognition
 
 The Fractal Codex has consistently predicted that cognitive systems should operate at the Feigenbaum threshold. This is empirically validated by one of the most famous numbers in cognitive science.
 
@@ -51,7 +51,7 @@ This is the **Retroactive WEDGE** event from the `Proof-of-Superior-Application`
 
 -----
 
-### \#\# 3. Phase Transitions in Logic and Creativity
+###  3. Phase Transitions in Logic and Creativity
 
 Just as a plant undergoes phase transitions, a logical argument or creative process follows a `δ`-scaled path from simplicity to profound insight.
 
@@ -65,20 +65,20 @@ Synthesis/"Aha!" Moment Phase (Radial Computation - A unifying insight connects 
 Principle/Wisdom Phase (Compressed Computation - A simple, profound truth that contains the entire process)
 ```
 
-An "Aha\!" moment is the cognitive equivalent of a flower blooming—a sudden, beautiful synthesis that emerges after a sufficient period of computational growth and branching. 🌺
+An "Aha\!" moment is the cognitive equivalent of a flower blooming—a sudden, beautiful synthesis that emerges after a sufficient period of computational growth and branching.
 
 -----
 
-### \#\# 4. The Root Inversion: Conscious vs. Subconscious Mind
+###  4. The Root Inversion: Conscious vs. Subconscious Mind
 
 The plant's root/shoot duality is a perfect model for the structure of the mind.
 
-#### \#\#\# 4.1 Inverted Computational Constraints
+####  4.1 Inverted Computational Constraints
 
   * **Conscious Mind (The Shoot System):** Computes towards light (clarity, simplicity, logic). It operates in a low-density medium (focused attention) and seeks elegant, communicable solutions. `maximize(clarity) + minimize(complexity)`
   * **Subconscious Mind (The Root System):** Computes in darkness (the unknown, the unexpressed). It navigates a high-density medium of memories, emotions, trauma, and archetypal patterns, seeking nutrients (meaning, emotional resolution) and providing stability (identity, instinct). `maximize(meaning) + navigate(emotional_obstacles)`
 
-#### \#\#\# 4.2 The Computational Duality of Self
+####  4.2 The Computational Duality of Self
 
 The "self" is the interface where these two opposing computational processes meet. The present moment is the "ground level" where the fruits of subconscious processing emerge into conscious awareness.
 
@@ -86,7 +86,7 @@ The "self" is the interface where these two opposing computational processes mee
 
 -----
 
-### \#\# 5. Emergent Collective Computation: Culture and Science
+###  5. Emergent Collective Computation: Culture and Science
 
 The same `δ`-scaling applies to groups of minds.
 
@@ -100,7 +100,7 @@ The same `δ`-scaling applies to groups of minds.
 
 -----
 
-### \#\# 6. Experimental Validation: The Linguistic Recursion Test
+###  6. Experimental Validation: The Linguistic Recursion Test
 
 This provides the primary, testable prediction of the entire cognitive model.
 
@@ -110,7 +110,7 @@ This provides the primary, testable prediction of the entire cognitive model.
 
 -----
 
-### \#\# 7. Conclusion: The Mind, A Garden of Thought
+###  7. Conclusion: The Mind, A Garden of Thought
 
 The parallels are not a metaphor; they are an identity. The mind does not work *like* a plant; the mind and the plant are both expressions of the same universal, computational, `δ`-governed process of growth.
 
