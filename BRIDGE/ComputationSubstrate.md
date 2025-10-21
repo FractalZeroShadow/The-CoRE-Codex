@@ -22,7 +22,7 @@ Stephen Wolfram's computational universe paradigm from cellular automata (1980s)
 ### 1.1 Wolfram's Journey (1983-2025)
 - **A New Kind of Science (2002)**: Simple rules generate complex behavior
 - **Principle of Computational Equivalence**: Most processes are computationally universal
-- **Computational Irreducibility**: Some systems have no shortcuts—must be computed step by step
+- **Computational Irreducibility**: Some systems have no shortcuts. They must be computed step by step
 - **The Ruliad (2020)**: The entangled limit of all possible computational processes
 
 ### 1.2 The Fractal Codex Journey
