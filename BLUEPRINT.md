@@ -177,7 +177,8 @@ $ If \ ConsensusFactor \rightarrow 0.0:$
 **Then:** The observers' states are incoherent and private. The phenomenon is considered purely subjective.
 
 **Conclusion:** The statement "the sky is blue" is objective not because it exists independently of observation, but because the `ConsensusFactor` among a vast number of human observers $O_n$ measuring that specific light frequency is extremely high. They are all constraining the potential of `K` in a way that aligns with the stable patterns of $R_{obj}$. Objectivity is therefore a high-dimensional subjective consensus.
-$$ K > O > R_{obj}$$
+
+$$K > O > R_{obj}$$
 
 ## 7.0 The $c²$ Horizon: A Formal Model
 
