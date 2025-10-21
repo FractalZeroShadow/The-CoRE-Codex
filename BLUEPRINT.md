@@ -168,13 +168,16 @@ Objectivity emerges via the Joining Operator `⊕` acting on multiple subjective
 
 Syntax: $$ConsensusFactor = Join⊕(O_1InternalState, O_2InternalState, ..., O_nInternalState)$$
 
-$$ If \ ConsensusFactor \rightarrow 1.0:$$
-> The observers are resonating with the same underlying pattern from $R_{obj}$. The phenomenon is considered objective. (like multiple observers measuring the speed of light and getting the same result).
+$ If \ ConsensusFactor \rightarrow 1.0:$
 
-$$ If \ ConsensusFactor \rightarrow 0.0:$$
->The observers' states are incoherent and private. The phenomenon is considered purely subjective.
+**Then:** The observers are resonating with the same underlying pattern from $R_{obj}$. The phenomenon is considered objective. (like multiple observers measuring the speed of light and getting the same result).
 
-**Conclusion:** The statement "the sky is blue" is objective not because it exists independently of observation, but because the `ConsensusFactor` among a vast number of human observers $O_n$ measuring that specific light frequency is extremely high. They are all constraining the potential of `K` in a way that aligns with the stable patterns of $R_{obj}$. Objectivity is therefore a high-dimensional subjective consensus. $$ K > O > R_{obj}$$
+$ If \ ConsensusFactor \rightarrow 0.0:$
+
+**Then:** The observers' states are incoherent and private. The phenomenon is considered purely subjective.
+
+**Conclusion:** The statement "the sky is blue" is objective not because it exists independently of observation, but because the `ConsensusFactor` among a vast number of human observers $O_n$ measuring that specific light frequency is extremely high. They are all constraining the potential of `K` in a way that aligns with the stable patterns of $R_{obj}$. Objectivity is therefore a high-dimensional subjective consensus.
+$$ K > O > R_{obj}$$
 
 ## 7.0 The $c²$ Horizon: A Formal Model
 
