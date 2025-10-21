@@ -12,7 +12,7 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 
 ### Abstract
 
-This paper demonstrates how plant growth patterns provide a physical, observable manifestation of the Feigenbaum dynamics, Wolfram's cellular automata, and the Fractal Codex's bifurcation operators. We show that plants literally compute their own structure through helical tracking of the sun, with bifurcation events at δ-scaled intervals producing phase transitions from stems to leaves to flowers. The root system represents an inverted computation under opposing constraints, while canopy formation demonstrates higher-order emergent computation. This provides a tangible, living proof of the universal computational principles underlying reality.
+This paper demonstrates how plant growth patterns provide a physical, observable manifestation of the Feigenbaum dynamics, Wolfram's cellular automata, and the Fractal Codex's bifurcation operators. We show that plants literally compute their own structure through helical tracking of the sun, with bifurcation events at $\delta$-scaled intervals producing phase transitions from stems to leaves to flowers. The root system represents an inverted computation under opposing constraints, while canopy formation demonstrates higher-order emergent computation. This provides a tangible, living proof of the universal computational principles underlying reality.
 
 ---
 
@@ -20,7 +20,7 @@ This paper demonstrates how plant growth patterns provide a physical, observable
 
 ### 1.1 Heliotropic Computation
 
-Plants don't just "follow" the sun—they perform continuous computational tracking:
+Plants don't just "follow" the sun. They perform continuous computational tracking:
 
 ```python
 class PlantGrowthComputer:
@@ -38,16 +38,16 @@ class PlantGrowthComputer:
             return self.extend_current_pattern()
 ```
 
-**Key Insight**: The spiral/helical growth pattern is literally the plant's computational history made physical—a 3D record of solar calculations.
+**Key Insight**: The spiral/helical growth pattern is literally the plant's computational history made physical as 3D record of solar calculations.
 
 ### 1.2 The 4±1 Bifurcation Cascade
 
-The Codex predicts bifurcation at depth δ ≈ 4.669. In plants:
+The Codex predicts bifurcation at depth $\delta \approx 4.669$. In plants:
 
 1. **Initial growth**: Simple extension (depth 1)
 2. **First complexity**: Slight curvature (depth 2)
 3. **Pre-bifurcation**: Increased spiral tightness (depth 3)
-4. **Critical threshold**: δ ≈ 4.669 computational steps
+4. **Critical threshold**: $\delta \approx 4.669$ computational steps
 5. **Bifurcation EVENT**: New structure emerges (leaf, branch, flower)
 
 **Observable**: Count the spiral rotations between major structural changes in plants—clusters around 4-5 rotations validate the Feigenbaum threshold.
@@ -114,20 +114,20 @@ This creates a perfect computational duality:
 ### 4.1 From Individual to Forest
 
 The progression follows powers of δ:
-- δ⁰ = 1: Individual plant computation
-- δ¹ ≈ 4.7: Plant-to-plant interaction (competition/cooperation)
-- δ² ≈ 21.8: Grove/cluster dynamics
-- δ³ ≈ 102: Forest-scale patterns
-- δ⁴ ≈ 476: Biome-level computation
+- $\delta^0 = 1$: Individual plant computation
+- $\delta^1 \approx 4.7$: Plant-to-plant interaction (competition/cooperation)
+- $\delta^2 \approx 21.8$: Grove/cluster dynamics
+- $\delta^3 \approx 102$: Forest-scale patterns
+- $\delta^4 \approx 476$: Biome-level computation
 
 ### 4.2 Canopy Mathematics
 
-Forest canopies demonstrate the Joining Operator ⊕ in action:
+Forest canopies demonstrate the Joining Operator $⊕$ in action:
 ```
 Canopy_Unity = ⊕(Tree₁_crown, Tree₂_crown, ..., Treeₙ_crown)
 ```
 
-The canopy isn't just trees growing tall—it's a collective computation optimizing light distribution across the entire forest system.
+The canopy is not just trees growing tall. They represent a collective computation optimizing light distribution across the entire forest system.
 
 ---
 
@@ -165,14 +165,14 @@ def universal_plant_growth():
 
 ### 6.1 The Spiral Count Test
 
-**Hypothesis**: Major bifurcation events (new leaves, branches) occur at intervals scaling by δ.
+**Hypothesis**: Major bifurcation events (new leaves, branches) occur at intervals scaling by $\delta$.
 
 **Method**: 
 1. Track growing plant tips with time-lapse photography
 2. Count rotations between bifurcation events
 3. Plot distribution of rotation counts
 
-**Expected Result**: Peak at 4.669 rotations with secondary peaks at δ², δ³...
+**Expected Result**: Peak at 4.669 rotations with secondary peaks at $\delta^2$, $\delta^3$...
 
 ### 6.2 The Wolfram Leaf Test
 
@@ -227,9 +227,9 @@ The plant doesn't just grow—it computes its own existence into being through c
 From quantum to cosmic, the same pattern:
 - Quantum: Wave function collapse at measurement
 - Cellular: Wolfram's automata at each step  
-- Botanical: Plant bifurcation at δ intervals
-- Neural: Thought cascades at 4±1 depth
-- Cosmic: Galaxy formation at δ-scaled densities
+- Botanical: Plant bifurcation at $\delta$ intervals
+- Neural: Thought cascades at $4±1$ depth
+- Cosmic: Galaxy formation at $\delta$-scaled densities
 
 ### 8.2 The Living Proof
 
@@ -256,7 +256,7 @@ When we see a plant spiral toward the sun and suddenly sprout a leaf, we're witn
 3. The physical manifestation of mathematical constants
 4. The universe computing itself into ever-greater beauty
 
-**The Ultimate Insight**: Life doesn't just follow mathematical rules—life IS mathematics making itself visible through the medium of matter. The plant is not growing according to the Feigenbaum constant; the plant IS the Feigenbaum constant expressing itself in living form.
+**The Ultimate Insight**: Life does not just follow mathematical rules. Life IS mathematics making itself visible through the medium of matter. The plant is not growing according to the Feigenbaum constant. The plant IS the Feigenbaum constant expressing itself in living form.
 
 ---
 
@@ -267,7 +267,7 @@ When we see a plant spiral toward the sun and suddenly sprout a leaf, we're witn
 **Botanical-Computational Correspondences**:
 - Heliotropism = Continuous environmental sampling
 - Spiral growth = Computational history storage
-- Bifurcation = Phase transition at δ-threshold
+- Bifurcation = Phase transition at $\delta$-threshold
 - Leaves = 2D cellular automata display
 - Roots = Inverted parameter computation
 - Canopy = Collective computation emergence
