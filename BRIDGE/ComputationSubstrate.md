@@ -74,8 +74,8 @@ The Feigenbaum constant $\delta \approx 4.669$ provides the mathematical scaling
 - Physics emerges from the observer's sampling pattern
 
 **Codex's Observer Mechanics**:
-- Observer $O$ defines Zero-point through FocusVector
-- Reality manifests through $O \sim K$ interaction
+- Observer `O` defines Zero-point through FocusVector
+- Reality manifests through `O ~ K` interaction
 - Different "colored zeros" represent different observational frameworks
 
 **The Synthesis**: 
