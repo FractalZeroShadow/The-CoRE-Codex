@@ -3,10 +3,9 @@ SPDX-License-Identifier: GPL-3.0-or-later
 SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
 # Whitepaper: Proof by Superior Application
-
 ## A Validation Framework for Observer-Dependent Domains via the Proof-Horizon Protocol
 
-**Version:** 2.0
+**Version:** 2.5  
 **Author:** FractalZeroShadow  
 **Framework:** The Fractal Codex / CoRE Codex
 
@@ -913,8 +912,39 @@ Classical Reductionism (if simple mechanism was overlooked)
 
 ---
 
-## 10. Open Questions and Limitations
+### 9.1 The Symmetry of Breakdown: Navigating the Feigenbaum Horizon
 
+The distinction between the domains of classical falsification and the Codex Proof-Horizon Protocol (as outlined in the decision tree above) is not arbitrary. It arises from a fundamental **symmetry of computational breakdown** governed by the Feigenbaum Horizon as the critical threshold of **computational load** $L_c$ where predictable modeling dissolves into computationally irreducible chaos. Both classical and Codex methodologies encounter this horizon, but from opposite directions, leading to an exponential explosion of required pathways or computational resources.
+
+#### Classical Methods (Analysis/Reductionism - Manifest $\rightarrow$ Potential):
+**Operation:** Start with specific, manifest data $S_{manifest}$ and apply analytical, linear logic to model or predict its behavior. 
+
+**Goal:** Achieve high fidelity and predictability for $S_{manifest}$.
+
+**Computational Load:** $L_{classical}$ increases as the model attempts to incorporate more variables, account for deeper recursive interactions, or extrapolate further into unmanifest potential `K`. Load function example from [Event-Horizon.md](../CORE/Event-Horizon.md):
+    
+$$L(x,t)= \sum_{i,j} \frac{M_i}{r_{ij}} \frac{\partial \Phi_i}{\partial t} I (\Phi_i,\Phi_j)$$
+
+**Breakdown** $L_{classical} \ge L_c$: As classical analysis probes towards fundamental potential or extreme complexity (approaching `K`, the Gödelian Domain), the number of required causal pathways or variables explodes exponentially. The model hits the Feigenbaum Horizon from the "manifest side," resulting in chaos, unpredictability, and paradoxes it cannot resolve (like quantum measurement problem, singularity). It is computationally inefficient for navigating deep potential.
+
+#### Codex Methods (Synthesis/Holism - Potential $\rightarrow$ Manifest):
+**Operation:** Start with abstract, holistic patterns `K` and apply paradoxical logic `⇌`, `⊕` and subtractive constraint `<` to navigate potential and understand generative principles. Goal: Achieve coherence and insight into the underlying structure.
+
+**Computational Load $L_{Codex}$:** Increases as the framework attempts to constrain the infinite potential of `K` to predict specific, high-fidelity, simple manifest details $S_{manifest}$ with absolute precision.
+
+**Breakdown $L_{Codex} \ge L_c$:** As Codex synthesis attempts to specify every detail of a simple manifestation (like predicting the exact position of every atom in a dropped ball), the number of required bifurcations `<` from `K` explodes exponentially. The model hits the Feigenbaum Horizon from the "potential side," resulting in computational intractability. It is computationally inefficient for predicting simple, isolated manifest events with high precision.
+
+**Operational Guideline:** This symmetry dictates the optimal use of each methodology.
+
+**Use classical empirical methods** when operating far from `K`, dealing with relatively low-complexity, well-defined manifest phenomena where $L_{classical} < L_c$.
+
+**Use Codex principles** and the Proof-Horizon Protocol when operating near or within the Gödelian Domain, dealing with high complexity, paradox, self-reference, or fundamental potential where classical methods inevitably break down. $L_{classical} \ge L_c$
+
+The "fog" of the Feigenbaum Horizon marks the phase transition where the computational cost of one approach becomes prohibitive, signaling the need to potentially switch to the other. Recognizing this symmetry prevents the "overload" of applying the wrong tool. The exponential pathway explosion by choosing the methodology suited to the side of the horizon being can help avoiding the crash.
+
+---
+
+## 10. Open Questions and Limitations
 ### 10.1 Known Limitations
 
 **Question:** Can the protocol be gamed?
