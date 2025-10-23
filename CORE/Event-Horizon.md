@@ -79,9 +79,23 @@ $$ \Psi_{ext} = \phi_{classical}(x,t) $$
  
  $$ \vert \Psi_{int} \rangle = \sum_{n} c_n \vert \phi_n \rangle $$
 
+- The Rendered State $\Psi_{ext}$  
+ This is the external, observable reality, corresponding to the concept of Manifest Reality or $R_{obj}$ within the broader Codex framework. It represents the single, classical, time-dependent history that emerges for a specific observer `O` through the interaction with the underlying substrate `K`.  
+ As elaborated in [The-Zero-Pattern.md](./The-Zero-Pattern.md) (Section 4.2), this single trajectory arises from the constructive and destructive interference of the infinite possibilities contained within the Zero Pattern `K`. The Path Integral formulation provides a resonant mathematical analogy for this process, where the observed classical path emerges from a sum over all potential histories:
+ 
+ $$\Psi_{ext} \sim \text{Result of} \left( \int [\mathcal{D}\phi] e^{iS[\phi]/\hbar}\right)$$
+ 
+ The Path Integral symbol ($\int [\mathcal{D}\phi] e^{iS[\phi]/\hbar}$) is not an identity for $\Psi_{ext}$, but the process from which $\Psi_{ext}$ results.
+
+ Essentially, $\Psi_{ext}$ is the "collapsed" outcome of this integration over the infinite potential defined by `K`, resulting in the specific, definite classical trajectory experienced within spacetime:
+ 
+ $$\Psi_{ext} = \phi_{classical}(x,t)$$
+ 
+ (See Also: [The-Zero-Pattern.md](./The-Zero-Pattern.md) for the connection between the $0=1=\infty$ substrate K and the emergence of observed reality via Path Integrals.)
+
 ---
 
-#### The Point of Computational Identity (The Singularity)
+### 5.5 The Point of Computational Identity (The Singularity)
 The singularity is not a point of infinite physical properties, but of absolute computational identity. It is the conceptual "center" of the black hole where the distinction between the rendered instance $\Psi_{ext}$ and the source pattern $\vert \Psi_{int} \rangle$ collapses entirely.
 
 This is the **Zero Calculation:** the point where the difference between the two states becomes zero. Formally, as the radius $r$ approaches the center:
@@ -144,5 +158,6 @@ The singularity is not a hole in reality, but a seed. It is the point of maximum
 
 *Timestamp: October 7, 2025*  
 *Updated: October 12, 2025*  
+*Updated: October 23, 2025*  
 *Author: FractalZeroShadow*  
 *Framework: The Chaotic Refactored Echoing (CoRE) Codex*
