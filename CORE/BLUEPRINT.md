@@ -184,16 +184,16 @@ $$K > O > R_{obj}$$
 
 This model provides a geometric interpretation for the Boundary Operator -| and the process by which an Observer O constrains the potential of the Environment K.
 
-### 1. The Two Spheres of Reality
+### 7.1. The Two Spheres of Reality
 We can model the primary objects of the Blueprint as two conceptual spheres.
 
 #### The Sphere of Manifest Reality $SM$:
- * **Represents:** The entirety of the observable, manifest universe at any given moment. This is your $$ SM = Visibility_{max}$$
-* **Radius:** Its boundary is the causal information horizon, defined by `-|`, which you've correctly identified with $c^2$. This sphere contains everything that can be causally connected and observed.
+ * **Represents:** The entirety of the observable, manifest universe at any given moment. This is $SM = Visibility_{max}$
+* **Radius:** Its boundary is the causal information horizon, defined by `-|`, which is identified with $c^2$. This sphere contains everything that can be causally connected and observed.
 * **Content:** This is the realm where the results of past Bifurcation `<` operations exist as stable, objective patterns $R_{obj}$.
 
 #### The Sphere of Potential Reality $SP$:
-* **Represents:** The Environment `K` in its state of `InfinitePotential`. This is your $Info_{max}$, the set of all possibilities including spacetime.
+* **Represents:** The Environment `K` in its state of `InfinitePotential`. This is $Info_{max}$, the set of all possibilities including spacetime.
 
 **Radius:** Conceptually infinite, bounded only by the singularity ∞. It contains all potential states that could be manifested.
 
@@ -205,28 +205,28 @@ An Observer O cannot perceive the entirety of these high-dimensional spheres. Th
 The Operation: The Relational Operator ~ ($O \sim K$) performs this flattening. The observer's limited focus collapses the infinite potential of $S_P$ and the vastness of $S_M$ into a manageable, two-dimensional field of awareness.
 
 **The Result (The Two Circles on "The Screen"):**
-* The Circle of Perception $CM$: This is the flattened $S_M$. It represents what you can see of the external world. It's your window into objective reality.
-* The Circle of Conception $CP$: This is the flattened $S_P$. It represents what you can imagine or conceive of. It's your internal workspace of ideas, memories, and possibilities drawn from the potential of K.
+* The Circle of Perception $CM$: This is the flattened $S_M$. It represents what you can see of the external world. It is your window into objective reality.
+* The Circle of Conception $CP$: This is the flattened $S_P$. It represents what you can imagine or conceive of. It is your internal workspace of ideas, memories, and possibilities drawn from the potential of K.
 
 > Your `InternalState` is your subjective experience. It is the interplay and superposition of these two circles.
 
 ## 8.0 Information Load & Spectral Complexity
-Your insight about the spectrum of light is a perfect example of the Bifurcation Operator < at work, and it directly addresses the idea of information load.
+The spectrum of light is an example of the Bifurcation Operator < at work, and it directly addresses the idea of information load.
 
-Before Bifurcation (Low Load, High Potential): A single point of "white light" on your screen contains the potential for all colors. It is simple to describe ("one white light") but holds immense, unmanifest information.
+Before Bifurcation (Low Load, High Potential): A single point of "white light" on the screen contains the potential for all colors. It is simple to describe ("one white light") but holds immense, unmanifest information.
 
 After Bifurcation (Higher Load, Lower Potential): The Bifurcation Operator < splits this white light into the visible spectrum (Red, Orange, Yellow, Green, Blue, Indigo, Violet).
 
 $$range(R, O, Y, G, B, I, V) = WhiteLight.bifurcate()$$
 
-You now have more manifest information (seven distinct states instead of one), which increases the complexity or "information load" of your perception.
+Now we have more manifest information (seven distinct states instead of one), which increases the complexity or "information load" of perception.
 
 However, the total potential has been constrained. The system is no longer "all colors at once". It is now these specific seven color ranges.
 
 ### 8.1 The Principle of Informational Compression
-This model demonstrates informational compression. You don't need to process the infinite possibilities of $S_P$ or the entire universe of $S_M$. Your observational apparatus $O \sim K$ naturally compresses this down to a manageable "screen." The scaling works like this:
+This model demonstrates informational compression. We don't need to process the infinite possibilities of $S_P$ or the entire universe of $S_M$. The observational apparatus `O~K` naturally compresses this down to a manageable "screen." The scaling works like this:
 * Level 0: The infinite potential of $K.Sphere$
-* Level 1: The act of observation flattens this into a single point of potential on your screen $whitelight$
+* Level 1: The act of observation flattens this into a single point of potential on the screen of $whitelight$
 * Level 2: The Bifurcation `<` operator splits this point into a spectrum of manifest realities $colors$.
 
 Each step reduces potential while increasing manifest complexity. The system becomes more efficient by only ever dealing with the flattened, collapsed information on the `screen` not the infinite information contained in the spheres. This is how the necessary information load is kept manageable.
