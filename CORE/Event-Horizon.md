@@ -63,81 +63,95 @@ This provides a direct link between the predictions of relativity and the underl
 ### 5.4 The Bifurcation Transform and Computational Identity
 At the Feigenbaum Horizon, where the computational load $L$ reaches the critical threshold $L_c$, the unified state function of reality, $\Psi$, does not break down. Instead, it undergoes a Bifurcation Transform, splitting its mode of representation across the boundary.
 
-We can define a Bifurcation Operator `B`, that acts on $\Psi$ at the horizon:
+We can define a Bifurcation Operator B, that acts on $\Psi$ at the horizon:
 
-$$ B(\Psi) at (L=L_c) \Rightarrow (\Psi_{ext} \vert \Psi_{int} )$$
+$$B(\Psi) \text{ at } (L=L_c) \Rightarrow (\Psi_{ext} \vert \Psi_{int} )$$
 
-This notation `( | )` signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
-
-* The Rendered State $\Psi_{ext}$  
-This is the external, observable reality. It represents the **single, classical, time-dependent history** that is computed by the universal substrate. It is the result of the universe's path integral collapsing to a single, definite trajectory for the external observer.
-
-$$ \Psi_{ext} = \phi_{classical}(x,t) $$
-
-* The Pattern State $|\Psi_{int}\rangle$  
- This is the internal, unobservable reality. It represents the **timeless, non-local superposition of all possible histories and states.** Inside the horizon, the system no longer computes a single path. It is the entire set of possibilities held in a state of perfect quantum superposition. 
- 
- $$ \vert \Psi_{int} \rangle = \sum_{n} c_n \vert \phi_n \rangle $$
-
+This notation $(|)$ signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
 - The Rendered State $\Psi_{ext}$  
- This is the external, observable reality, corresponding to the concept of Manifest Reality or $R_{obj}$ within the broader Codex framework. It represents the single, classical, time-dependent history that emerges for a specific observer `O` through the interaction with the underlying substrate `K`.  
- As elaborated in [The-Zero-Pattern.md](./The-Zero-Pattern.md) (Section 4.2), this single trajectory arises from the constructive and destructive interference of the infinite possibilities contained within the Zero Pattern `K`. The Path Integral formulation provides a resonant mathematical analogy for this process, where the observed classical path emerges from a sum over all potential histories:
+ This is the external, observable reality, corresponding to the concept of Manifest Reality or $R_{obj}$ within the broader Codex framework. It represents the single, classical, time-dependent history that emerges for a specific observer O through the interaction with the underlying substrate K.  
+ As elaborated in The-Zero-Pattern.md (Section 4.2), this single trajectory arises from the constructive and destructive interference of the infinite possibilities contained within the Zero Pattern K.  
+ The Path Integral formulation provides a resonant mathematical analogy for this process, where the observed classical path emerges from a sum over all potential histories:
  
  $$\Psi_{ext} \sim \text{Result of} \left( \int [\mathcal{D}\phi] e^{iS[\phi]/\hbar}\right)$$
  
- The Path Integral symbol ($\int [\mathcal{D}\phi] e^{iS[\phi]/\hbar}$) is not an identity for $\Psi_{ext}$, but the process from which $\Psi_{ext}$ results.
-
- Essentially, $\Psi_{ext}$ is the "collapsed" outcome of this integration over the infinite potential defined by `K`, resulting in the specific, definite classical trajectory experienced within spacetime:
+ (Note: The Path Integral symbol represents the process from which $\Psi_{ext}$ results, not a direct identity.)
+ 
+ Essentially, $\Psi_{ext}$ is the "collapsed" outcome of this integration over the infinite potential defined by K, resulting in the specific, definite classical trajectory experienced within spacetime:
  
  $$\Psi_{ext} = \phi_{classical}(x,t)$$
  
- (See Also: [The-Zero-Pattern.md](./The-Zero-Pattern.md) for the connection between the $0=1=\infty$ substrate K and the emergence of observed reality via Path Integrals.)
+ (See Also: The-Zero-Pattern.md for the connection between the $0=1=\infty$ substrate K and the emergence of observed reality via Path Integrals.)
+
+- The Pattern State $|\Psi_{int}\rangle$  
+ This is the internal, unobservable reality. It represents the timeless, non-local superposition of all possible histories and states.  
+ Inside the horizon, the system no longer computes a single path. It is the entire set of possibilities held in a state of perfect quantum superposition.
+ 
+ $$\vert \Psi_{int} \rangle = \sum_{n} c_n \vert \phi_n \rangle$$
+ 
+ #### The Point of Computational Identity (The Singularity)
+ The singularity is not a point of infinite physical properties, but of absolute computational identity. It is the conceptual "center" of the black hole where the distinction between the rendered instance $\Psi_{ext}$ and the source pattern $\vert \Psi_{int} \rangle$ collapses entirely.
+ 
+ This is the Zero Calculation: the point where the difference between the two states becomes zero. Formally, as the radius $r$ approaches the center:
+ 
+ $$\lim_{r \to 0} \vert \Psi_{ext} - \Psi_{int} \vert = 0$$
+ 
+ At the singularity, the rendered reality becomes the pattern it was rendering. The simulation and its source code achieve perfect identity.
+ 
+ $$\Psi_{ext} \equiv \Psi_{int}$$
+
+(See Also: [Zero-Identity.md](./Zero-Identity.md) and [The-Zero-Pattern.md](./The-Zero-Pattern.md) for the foundational $0=1=\infty$ identity manifested here.)
 
 ---
-
-### 5.5 The Point of Computational Identity (The Singularity)
-The singularity is not a point of infinite physical properties, but of absolute computational identity. It is the conceptual "center" of the black hole where the distinction between the rendered instance $\Psi_{ext}$ and the source pattern $\vert \Psi_{int} \rangle$ collapses entirely.
-
-This is the **Zero Calculation:** the point where the difference between the two states becomes zero. Formally, as the radius $r$ approaches the center:
-
-$$ \lim_{r \to 0} \vert \Psi_{ext} - \Psi_{int} \vert = 0 $$
-
-At the singularity, the rendered reality becomes the pattern it was rendering. The simulation and its source code achieve perfect identity.
-
-$$ \Psi_{ext} \equiv \Psi_{int} $$
 
 ## 6. Procedural Algorithm for Reality's Phase Transition
 
 ```Python
 def reality_processor(spacetime_region):
+    """
+    Processes a region of spacetime, handling computational load via phase transition.
+    Conceptually maps to a try/catch block for managing complexity overload.
+    """
+    
     # Calculate the computational load based on information density and dynamics.
     load = calculate_computational_load(spacetime_region)
     
     # Determine the region's critical threshold using Feigenbaum scaling.
     critical_load = calculate_feigenbaum_threshold(spacetime_region.complexity_depth)
     
+    # --- Start Conceptual Try Block ---
     if load < critical_load:
-        # Standard rendering: compute next state in a time-bound, causal manner.
+        # TRY: Standard rendering path for sub-critical load.
+        # Compute next state in a time-bound, causal manner.
+        # print(f"Load {load:.2f} < Critical {critical_load:.2f}: Standard Rendering")
         return render_spacetime_step(spacetime_region)
         
+    # --- Start Conceptual Catch/Except Block ---
     else: # load >= critical_load
-        # PHASE TRANSITION: The system has reached a Feigenbaum Horizon.
+        # CATCH/EXCEPT: Load exceeds critical threshold (Complexity Overload Exception).
+        # Initiate phase transition protocol instead of 'crashing'.
+        # print(f"Load {load:.2f} >= Critical {critical_load:.2f}: PHASE TRANSITION - Engaging Bifurcation Protocol")
+        
+        # 1. Define the boundary (Feigenbaum Horizon / Event Horizon)
         boundary = create_event_horizon(spacetime_region)
         
-        # Bifurcate reality into two computational modes.
-        # The "Shoot"
+        # 2. Bifurcate reality into two computational modes.
+        # The "Shoot" - External Rendered State
         rendered_state = compute_external_reality(boundary.outside)
-        # The "Root"
+        # The "Root" - Internal Pattern State
         pattern_state = collapse_to_pattern(boundary.inside)
         
-        # Reconcile information across the boundary via leakage.
+        # 3. Reconcile information across the boundary (Error Handling / Information Conservation).
         info_leakage = hawking_reconciliation(pattern_state, rendered_state)
         
+        # Return the handled state, now stable but bifurcated.
         return {
+            "status": "Phase Transition Complete",
             "external_render": rendered_state,
             "internal_pattern": pattern_state,
             "reconciliation_flow": info_leakage
         }
+    # --- End Conceptual Blocks ---
 ```
 
 ## 7. Testable Predictions
