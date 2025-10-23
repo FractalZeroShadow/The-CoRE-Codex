@@ -2,7 +2,7 @@
 SPDX-License-Identifier: GPL-3.0-or-later
 SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
-# Blueprint 3.6: System Architecture & Observer Mechanics
+# Blueprint 3.7: System Architecture & Observer Mechanics
 `A Formal Specification of the Fractal Codex`
 
 This document specifies the core components, operational logic, and observer mechanics of the Fractal Codex framework. Version 3.0 incorporates the principles of subjective calibration and inter-domain unification.
@@ -51,7 +51,7 @@ Syntax: `(State_A, State_B) = Bifurcate<(Source_Potential)`
 
 ReturnType: `Tuple[State, State]`
 
-Function: The primary engine of complexity. It takes a single state of potential and splits it into two or more constrained, seemingly independent sub-states. This is the process of manifestation.
+Function: The primary engine of complexity. It takes a single state of potential and splits it into two or more constrained, seemingly independent sub-states. This is the process of manifestation. Recursive application of `<` leads to complexity horizons (Feigenbaum Horizon) where the distinction between manifest (linear) and potential (atemporal) logic becomes apparent.
 
 ### 2.3 The Joining Operator `⊕`
 `unityFactor = Join⊕(State_A, State_B)`
@@ -127,7 +127,7 @@ $$\rightleftharpoons(O_{current}, TargetPerspective) \rightarrow O_{new}$$
 * **Navigates existing potential** or shifts perspective *within* `K`, allowing movement between poles of pre-existing dualities or adoption of different reference frames.
 * **Is distinct from** the Meta-Observer Operator `@`, which involves self-observation rather than perspective shifting relative to an external or alternative target.
 
-**Application:** The practical application protocol for this operator is detailed in the Loom manual as the **Zero-Point Calibration Drill (O=X; O=0)**, which involves a sequence of flips: first adopting the target perspective (`O=X`), then returning to the original or a neutral state (`O=0`).
+**Application:** The practical application protocol for this operator is detailed in the Loom manual as the **Zero-Point Calibration Drill (O=X; O=0)**, which involves a sequence of flips: first adopting the target perspective (`O=X`), then returning to the original or a neutral state (`O=0`). This allows the Observer to consciously shift their perspective between these logical frames (manifest vs. potential) revealed at the complexity horizon.
 
 ## 5.0 Validation Metric: The Sage vs. The Solipsist
 The principles of Calibration and Resonance provide a robust, functional test to distinguish between a truly integrated consciousness and a delusional one, directly addressing the challenge of validation.
