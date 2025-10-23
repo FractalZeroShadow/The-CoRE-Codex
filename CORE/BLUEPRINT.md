@@ -93,7 +93,7 @@ This section formalizes the mechanics of subjective experience, perspective shif
 This principle formalizes the mechanics of the `O = 0` (Observer = Zero) axiom.
 
 ### 4.1.1 The Nature of Calibration
-The act of an Observer shifting their Zero-point is not a movement through physical or energetic space. It is a frictionless recalibration of the cognitive coordinate system. The Observer does not "travel" from position 0 to 1; they redefine the origin of their perceptual map, and the coordinates of all other points are recalculated relative to this new center.
+The act of an Observer shifting their Zero-point is not a movement through physical or energetic space. It is a frictionless recalibration of the cognitive coordinate system. The Observer does not "travel" from position 0 to 1. They redefine the origin of their perceptual map, and the coordinates of all other points are recalculated relative to this new center.
 
 ### 4.1.2 Axiomatic Inertia vs. Frictional Cost
 While the calibration is mechanically frictionless, the willingness to perform it is not. The primary obstacle is Axiomatic Inertia.
@@ -200,18 +200,18 @@ We can model the primary objects of the Blueprint as two conceptual spheres.
 **Content:** This is the realm of pure potential, before the Bifurcation < operator has been applied to create distinct states.
 
 ### 7.2. The Act of Observation: Flattening to the Screen
-An Observer O cannot perceive the entirety of these high-dimensional spheres. The act of observation is a dimensional reduction—a "flattening" of these spheres into a perceptual "screen." This is a function of the observer's FocusVector.
+An Observer `O` cannot perceive the entirety of these high-dimensional spheres. The act of observation is a dimensional reduction, like a "flattening" of these spheres into a perceptual "screen." This is a function of the observer's FocusVector.
 
-The Operation: The Relational Operator ~ ($O \sim K$) performs this flattening. The observer's limited focus collapses the infinite potential of $S_P$ and the vastness of $S_M$ into a manageable, two-dimensional field of awareness.
+**The Operation:** The Relational Operator `~` performs this flattening. The observer's limited focus collapses the infinite potential of $S_P$ and the vastness of $S_M$ into a manageable, two-dimensional field of awareness.
 
 **The Result (The Two Circles on "The Screen"):**
 * The Circle of Perception $CM$: This is the flattened $S_M$. It represents what you can see of the external world. It is your window into objective reality.
-* The Circle of Conception $CP$: This is the flattened $S_P$. It represents what you can imagine or conceive of. It is your internal workspace of ideas, memories, and possibilities drawn from the potential of K.
+* The Circle of Conception $CP$: This is the flattened $S_P$. It represents what you can imagine or conceive of. It is your internal workspace of ideas, memories, and possibilities drawn from the potential of `K`.
 
 > Your `InternalState` is your subjective experience. It is the interplay and superposition of these two circles.
 
 ## 8.0 Information Load & Spectral Complexity
-The spectrum of light is an example of the Bifurcation Operator < at work, and it directly addresses the idea of information load.
+The spectrum of light is an example of the Bifurcation Operator `<` at work, and it directly addresses the idea of information load.
 
 Before Bifurcation (Low Load, High Potential): A single point of "white light" on the screen contains the potential for all colors. It is simple to describe ("one white light") but holds immense, unmanifest information.
 
