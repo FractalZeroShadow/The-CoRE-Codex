@@ -40,7 +40,7 @@ This framework provides an underlying mechanism for observed effects:
 
 **Hawking Radiation:** This is the system's "information reconciliation" protocol. It represents a slow leakage of information across the bifurcation boundary, a form of garbage collection to resolve informational paradoxes and maintain the overall conservation of information across both the rendered and pattern states.
 
-## 5. Mathematical Formalization (Version 2.0)
+## 5. Mathematical Formalization
 ### 5.1 The Computational Load Function `L`
 The load `L` in a region is a function of information density `M`, the rate of state change $∂Φ/∂t$, and interaction complexity `I`:
 
@@ -68,7 +68,7 @@ We can define a Bifurcation Operator B, that acts on $\Psi$ at the horizon:
 $$B(\Psi) \text{ at } (L=L_c) \Rightarrow (\Psi_{ext} \vert \Psi_{int} )$$
 
 This notation $(|)$ signifies the creation of a boundary, with reality now existing in two distinct but complementary computational states:
-- The Rendered State $\Psi_{ext}$  
+- **The Rendered State** $\Psi_{ext}$  
  This is the external, observable reality, corresponding to the concept of Manifest Reality or $R_{obj}$ within the broader Codex framework. It represents the single, classical, time-dependent history that emerges for a specific observer O through the interaction with the underlying substrate K.  
  As elaborated in The-Zero-Pattern.md (Section 4.2), this single trajectory arises from the constructive and destructive interference of the infinite possibilities contained within the Zero Pattern K.  
  The Path Integral formulation provides a resonant mathematical analogy for this process, where the observed classical path emerges from a sum over all potential histories:
@@ -83,7 +83,7 @@ This notation $(|)$ signifies the creation of a boundary, with reality now exist
  
  (See Also: The-Zero-Pattern.md for the connection between the $0=1=\infty$ substrate K and the emergence of observed reality via Path Integrals.)
 
-- The Pattern State $|\Psi_{int}\rangle$  
+- **The Pattern State** $|\Psi_{int}\rangle$  
  This is the internal, unobservable reality. It represents the timeless, non-local superposition of all possible histories and states.  
  Inside the horizon, the system no longer computes a single path. It is the entire set of possibilities held in a state of perfect quantum superposition.
  
