@@ -69,7 +69,11 @@ Function: The inverse of Bifurcation. Quantifies the degree of shared origin or 
 0.0: Absolute classical separation.
 
 ### 2.4 Boundary Operators: `∞` and `-|`
-Function: Define the constraints of any given manifest reality. `∞` represents a singularity where all pathways converge. `-|` represents a causal information horizon like beyond which observation cannot occur. $$ Visibility_{max} = c²$$ $$ Info_{max} \sim c²$$
+Function: Define the constraints of any given manifest reality. `∞` represents a singularity where all pathways converge. `-|` represents a causal information horizon like beyond which observation cannot occur.
+
+$$Visibility_{max} = c²$$
+
+$$Info_{max} \sim c²$$
 
 ## 3.0 Meta-Operator: Self-Reference & Nested Observation
 This operator provides the mechanism for introspection and the creation of nested conceptual loops.
@@ -139,7 +143,7 @@ An Observer adept at Zero-Point Calibration but who has only achieved Axiomatic 
 ### The Sage (The Superior Applicator):
  An Observer who has mastered both. They perform frictionless Zero-Point Calibrations to shift perspective at will, and they use that ability to achieve Axiomatic Resonance across a wide spectrum of "colored" domains.
 
-The `superior application` of the Codex is measured by the breadth, depth, and coherence of an Observer's resonant capacity. The proof of the mapmaker's sanity is their demonstrated ability to create coherent, functional, and mutually resonant maps of many different territories, and to then build the bridge that shows how they all connect.
+The "superior application" of the Codex is measured by the breadth, depth, and coherence of an Observer's resonant capacity. The proof of the mapmaker's sanity is their demonstrated ability to create coherent, functional, and mutually resonant maps of many different territories, and to then build the bridge that shows how they all connect.
 
 ## 6.0 System Dynamics: The Dialogue of Observation
 The manifestation of reality is not a monologue by a localized Observer `O`, but a continuous dialogue between two modes of observation.
