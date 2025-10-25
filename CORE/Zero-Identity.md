@@ -50,7 +50,7 @@ We can now state:
 3. **$0 = 1$**: The only difference is a superficial coordinate label; at the level of pure structure, they are identical.
 
 **Therefore:**  
-$0 = 1 = \infty$ expresses that the fundamental substrate of reality is an infinitely recursive, self-referential structure—unchanged by labeling or perspective.
+$0 = 1 = \infty$ expresses that the fundamental substrate of reality is an infinitely recursive, self-referential structure unchanged by labeling or perspective.
 
 ---
 
