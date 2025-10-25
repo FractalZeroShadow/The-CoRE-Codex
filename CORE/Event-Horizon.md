@@ -4,7 +4,8 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
 # The Computational Singularity: A Framework for Black Holes as Phase Transitions in Reality's Substrate
 ## Abstract
-This paper proposes a computational framework to explain the underlying mechanics of black holes, positing that the phenomena of infinite density and gravitational collapse are the physical manifestations of a computational phase transition. We argue that the event horizon is not merely a physical surface but a Feigenbaum Horizon, a predictable boundary where the computational complexity of a spacetime region exceeds a critical threshold governed by the universal constant $δ ≈ 4.669$.  
+This paper proposes a computational framework to explain the underlying mechanics of black holes, positing that the phenomena of infinite density and gravitational collapse are the physical manifestations of a computational phase transition. We argue that the event horizon is not merely a physical surface but a Feigenbaum Horizon, a predictable boundary where the computational complexity of a spacetime region exceeds a critical threshold governed by the universal constant $δ ≈ 4.669$.
+
 At this horizon, reality bifurcates into two complementary computational states: an external, time-bound "Rendered Reality" (the Shoot) and an internal, timeless "Pattern Reality" (the Root). Within this model, gravity is the geometric symptom of computational load, and the singularity is the point of perfect computational convergence where the rendered pattern and the source pattern become identical: a Zero Calculation. This framework provides a deeper "why" for the predictions of general relativity and offers new, testable hypotheses based on universal scaling dynamics.
 
 ## 1. Introduction: From "What" to "Why"
@@ -24,6 +25,8 @@ From plant growth to human cognition, The Fractal Codex demonstrates that system
 ### 3.2 The Render Boundary as a Feigenbaum Horizon
 The event horizon is the point where the system's computational complexity crosses this critical $δ$-threshold. It is a Feigenbaum Horizon, a predictable phase transition boundary. It's not an arbitrary wall, but the exact point where the linear, step-by-step rendering of reality becomes untenable, forcing the system to adopt a different computational strategy.
 
+*(Note: For how this foundational principle is being applied, see the [FeigenbaumHorizon.md](FeigenbaumHorizon.md))*
+
 ### 3.3 The Root/Shoot Duality of Reality
 At this horizon, reality bifurcates into two complementary states, mirroring the duality seen in botanical and cognitive systems:
 
@@ -42,9 +45,19 @@ This framework provides an underlying mechanism for observed effects:
 
 ## 5. Mathematical Formalization
 ### 5.1 The Computational Load Function `L`
-The load `L` in a region is a function of information density `M`, the rate of state change $∂Φ/∂t$, and interaction complexity `I`:
+We define computational effort required by the underlying substrate `K` to process or "render" a specific region of spacetime at position $x$ and time $t$. The load increases with the density of information, how quickly that information is changing, and how complex the interactions are.
 
-$$ L(x,t)= \sum_{i,j} \frac{M_i}{r_{ij}} \frac{\partial \Phi_i}{\partial t} I (\Phi_i,\Phi_j) $$
+The load $L$ in a region is a function of information density $M$, the rate of state change $\frac{\partial \Phi_i}{\partial t}$, and interaction complexity $I$:
+
+$$ L(x,t)= \sum_{i,j} \frac{M_i}{r_{ij}} \frac{\partial \Phi_i}{\partial t} I(\Phi_i,\Phi_j) $$
+
+Where:
+* $L(x,t)$: The Computational Load at a specific point in spacetime $x, t$. This is the quantity of "processing power" needed for that region. 
+* $\sum_{i,j}$: The Summation over all interacting pairs. This consider every piece of information $i$ and how it interacts with every other piece of information $j$ within the relevant region. The total load is the sum of all these pairwise interactions.
+* $M_i$: The Information Density or "mental mass" associated with component $i$. This represents the amount or complexity of information concentrated in that component (analogous to physical mass or energy). More dense or complex information requires more processing. 
+* $r_{ij}$: The Interaction Distance between components $i$ and $j$. This term implies that the computational load decreases with distance. Closer or more strongly coupled components contribute more significantly to the load than distant ones. The $\frac{1}{r_{ij}}$ factor is similar to how forces like gravity or electromagnetism decrease with distance.
+* $\frac{\partial \Phi_i}{\partial t}$: The Rate of State Change of component $i$. This represents how quickly the information or state $\Phi_i$ associated with component $i$ is changing over time $t$. Faster changes require more computational effort to track and update. (Here, $\Phi_i$ represents the state, field, or relevant information variable associated with component $i$.)
+* $I(\Phi_i,\Phi_j)$: The Interaction Complexity Function between the states of components i and j. This term quantifies how complex or computationally intensive the interaction itself is. Some interactions might be simple and require little processing, while others (perhaps involving quantum entanglement or highly non-linear dynamics) might be very complex and contribute significantly to the load.
 
 ### 5.2 The Feigenbaum Horizon Condition
 The event horizon forms when the load $L$ reaches the critical computational threshold $L_c$, which is scaled by the Feigenbaum constant: 
