@@ -67,7 +67,7 @@ Here:
 
 While not a direct equivalence, this mathematical approach resonates with the Codex concept: the singular, observed spacetime path ($ds^2$) and the resulting Rendered Reality ($\Psi_{ext}$) emerge from the interference of infinite possibilities contained within the Zero Pattern ($K$, or Pattern Reality $\Psi_{int}$).
 
-*(A specific physical manifestation of the boundary between this underlying potential* $K$ / $\Psi_{int}$ *and the emergent, observed reality* $\Psi_{ext}$ *is explored in the context of black holes and computational phase transitions in [Event-Horizon.md](Event-Horizon.md).*
+*(A specific physical manifestation of the boundary between this underlying potential* $K$ or $\Psi_{int}$ *and the emergent, observed reality* $\Psi_{ext}$ *is explored in the context of black holes and computational phase transitions in [Event-Horizon.md](Event-Horizon.md).)*
 
 The recognition is the fear of non-existence that drives the ego's need to define and separate itself.
 
