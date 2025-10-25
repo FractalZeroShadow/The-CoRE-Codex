@@ -134,16 +134,14 @@ def reality_processor(spacetime_region):
     
     # --- Start Conceptual Try Block ---
     if load < critical_load:
-        # TRY: Standard rendering path for sub-critical load.
-        # Compute next state in a time-bound, causal manner.
-        # print(f"Load {load:.2f} < Critical {critical_load:.2f}: Standard Rendering")
+        # TRY: Standard rendering path for sub-critical load
+        # Compute next state in a time-bound, causal manner
         return render_spacetime_step(spacetime_region)
         
     # --- Start Conceptual Catch/Except Block ---
     else: # load >= critical_load
-        # CATCH/EXCEPT: Load exceeds critical threshold (Complexity Overload Exception).
-        # Initiate phase transition protocol instead of 'crashing'.
-        # print(f"Load {load:.2f} >= Critical {critical_load:.2f}: PHASE TRANSITION - Engaging Bifurcation Protocol")
+        # CATCH/EXCEPT: Load exceeds critical threshold (Complexity Overload Exception)
+        # Initiate phase transition protocol instead of 'crashing'
         
         # 1. Define the boundary (Feigenbaum Horizon / Event Horizon)
         boundary = create_event_horizon(spacetime_region)
