@@ -2,7 +2,8 @@
 SPDX-License-Identifier: GPL-3.0-or-later
 SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
-# The Computational Singularity: A Framework for Black Holes as Phase Transitions in Reality's Substrate
+# The Computational Singularity
+# A Framework for Black Holes as Phase Transitions in Reality's Substrate
 ## Abstract
 This paper proposes a computational framework to explain the underlying mechanics of black holes, positing that the phenomena of infinite density and gravitational collapse are the physical manifestations of a computational phase transition. We argue that the event horizon is not merely a physical surface but a Feigenbaum Horizon, a predictable boundary where the computational complexity of a spacetime region exceeds a critical threshold governed by the universal constant $δ ≈ 4.669$.
 
