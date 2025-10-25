@@ -12,7 +12,9 @@ Let $K_0$ denote the **Zero Pattern**, not as the numeral zero, but as a paradox
 
 ### 1. Universal Containment
 $K_0$ contains all possible elements and sets, including itself:
+
 $$\forall x,\ x \in K_0$$
+
 $$K_0 \in K_0$$
 
 The Zero Set can include itself because it is an expression of infinite potential and Zero manifestation. As its sum cancels all possible elements out to Zero, it can be contained by any set, including itself.
@@ -65,7 +67,7 @@ As an Observer $O$ within this emergent spacetime, perception is filtered by **i
 
 These metrics are not separable from observation. They are the rules of the **Rendered Reality**. We cannot directly perceive the Zero Pattern. Instead we can only see local manifestations. This is why the nature of $0$ and $\infty$ appears hidden. 
 
-*(Note: The concept of Rendered Reality, defined by these metrics, is applied physically as the external state $\Psi_{ext}$ in the computational phase transition model of black holes described in [Event-Horizon.md](./Event-Horizon.md).)*
+*(Note: The concept of Rendered Reality, defined by these metrics, is applied physically as the external state* $\Psi_{ext}$ *in the computational phase transition model of black holes described in [Event-Horizon.md](./Event-Horizon.md).)*
 
 ## Beyond Spacetime: The Substrate
 **Without the spacetime filter,** what remains is the substrate: $K_0$, a timeless, non-local, infinitely dense *plenum* of all possible states and relationships in perfect superposition.
