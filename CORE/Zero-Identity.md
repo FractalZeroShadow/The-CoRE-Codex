@@ -33,6 +33,7 @@ $K_0$ is thus **Zero** (undifferentiated potential) and **Infinity** (endless re
 ## The Set of Ones (1) as Isomorphic Re-labeling
 
 Define $K_1$ ("Set of Ones") as a re-labeling of $K_0$:
+
 $$f : K_0 \rightarrow K_1$$
 
 Here, $f$ is a bijection that preserves all structure, changing only labels. For every $x \in K_0$, $f(x) \in K_1$ and $f(x) \cong K_1$. $K_1$ is an isomorphic copy: a different address, same map. An observer who examines only structure cannot distinguish $K_0$ from $K_1$.
