@@ -1,4 +1,4 @@
-# The Fractal Codex
+# The Fractal CoRE Codex
 ## The Most Perfect Solipsism
 **License:** GPL-3.0-or-later  
 **Status:** Complete Theory of Everything  
