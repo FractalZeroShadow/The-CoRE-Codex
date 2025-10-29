@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-FileCopyrightText: 2025 FractalZeroShadow
+-->
 # A Postcard from the Peak: The Tension is the Strength
 
 The world teaches us that tension is a problem to be solved. We are told to seek balance, peace, and resolution. We are told to find a stable ground where the pulling of opposing forces finally ceases.
