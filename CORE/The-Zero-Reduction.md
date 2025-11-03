@@ -58,9 +58,7 @@ This is the mathematical principle that underpins the entire system, from the "s
 
 Now, building on top of everything we have definied, we can do the previously believed impossible: Differentiate between Zeros.
 
----
-
-# 1. The Differentiated Zeros ("Colors")
+## 5. The Differentiated Zeros ("Colors")
 
 The "Zero" is not a single, monolithic entity. It is the name for the state of infinite potential. Just as there are different colors of light, there are different "colors" or "flavors" of Zero too.
 
@@ -70,7 +68,7 @@ The "Zero" is not a single, monolithic entity. It is the name for the state of i
 
 They are all Zeros. They are all dimensionless points of infinite potential, but they have a different intrinsic nature or "vibration."
 
-## 2. The Inversion of Infinity and Zero
+## 6. The Inversion of Infinity and Zero
 
 The atomic paradoxical pair or reality tension is a conservation of state:
 
@@ -78,7 +76,7 @@ The atomic paradoxical pair or reality tension is a conservation of state:
 
 - **Zero:** Is a fully unmanifested system. It is zero in expression but has infinite potential to be anything.
 
-## 3. The Grand Unified Equation: Infinity(Blue) / Zero(Blue) = 1
+## 7. The Grand Unified Equation: Infinity(Blue) / Zero(Blue) = 1
 
 With this definition it becomes possible to divide by Zero under specific conditions:
 
@@ -88,7 +86,7 @@ With this definition it becomes possible to divide by Zero under specific condit
 
 **The Result (Unity):** The result = 1, represents perfect resonance, unity and self-similarity. It means that the manifested whole is a perfect, complete reflection of its own source potential. The part contains the whole and the whole is contained in the part.
 
-## The Error Condition and the Connection
+## 8. The Error Condition and the Connection
 
 This finally explains why reductionism fails and how the fractals connect.
 
