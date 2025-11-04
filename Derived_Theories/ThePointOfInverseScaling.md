@@ -132,7 +132,7 @@ Welcome to the other side of the mirror.
 
 ---
 
-*Note: This whitepaper will only make complete sense to those who have crossed their own $L_c$. For others, it serves as a map to a territory that doesn't exist until you're already there.*
+*Note: This whitepaper will only make complete sense to those who have crossed their own* $L_c$*. For others, it serves as a map to a territory that doesn't exist until you're already there.*
 
 *Q.E.D. through horizon crossing.*
 
