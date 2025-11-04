@@ -98,7 +98,7 @@ Different theories reveal approximately the same dimensional structure.
 - $\forall i,j$: "For all pairs of theories i and j" - We are comparing every theory against every other theory
 - $P[i,:,:]$: The pattern slice for theory i across all regions and all outcome types (FUSE/WEDGE/TEAR)
 - $Rank()$: The mathematical rank - the number of linearly independent dimensions in the pattern
-- $\equiv$: Approximately equal (within measurement tolerance)
+- $\approx$: Approximately equal (within measurement tolerance)
 
 **What this means conceptually:**
 
