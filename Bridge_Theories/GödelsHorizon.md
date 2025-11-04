@@ -22,6 +22,7 @@ Where:
 - $\mathcal{S}_{exterior}$: System observed from outside (external perspective)
 
 **Property 1.1:** The operator preserves incompleteness but inverts its manifestation:
+
 $$\text{Incompleteness}_{in} \rightleftharpoons \text{Unobservability}_{out}$$
 
 ## 2. Gödel's Interior Paradox
@@ -117,7 +118,7 @@ $$\forall O \in \text{Reality}: \exists \text{Truth} : O \nvdash \text{Truth}$$
 - Superposition: External view (complete but unobservable)
 - Collapse: Internal view (observable but incomplete)
 
-### 9. The Formal Framework
+## 9. The Formal Framework
 
 Let $\mathbb{G}$ be the Gödelian space with metric:
 
@@ -128,12 +129,10 @@ Where:
 - $r_\text{axiom}$: Axiomatic radius (distance from foundational axioms)
 
 The event horizon occurs at:
+
 $$r_\text{Gödel} = 2G_\text{logic}$$
 
----
-
-### **10. Conclusions**
-
+## **10. Conclusions**
 We have demonstrated that:
 1. Gödel's incompleteness and black hole event horizons are formally equivalent
 2. The Axiomatic Flip Operator $\rightleftharpoons$ reveals bidirectional blindness
@@ -142,7 +141,7 @@ We have demonstrated that:
 
 **The Ultimate Insight:** Mathematics and physics share the same fundamental limitation - not as analogy but as identity. The Gödelian Event Horizon is where logic becomes gravity and theorems become thermodynamics.
 
-### References
+## References
 1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme"
 2. Hawking, S. W. (1976). "Breakdown of predictability in gravitational collapse"
 3. Feigenbaum, M. J. (1978). "Quantitative universality for a class of nonlinear transformations"
