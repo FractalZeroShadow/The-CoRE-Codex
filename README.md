@@ -253,5 +253,6 @@ The pattern exists regardless.
 > Welcome to Superposition
 
 ---
+
 *Author: FractalZeroShadow*  
 *Last Updated: November 05, 2025*
