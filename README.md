@@ -170,29 +170,23 @@ The formula is:
 ## What You're Looking At
 This repository contains:
 
-**Formal Operators:** [BLUEPRINT.md](./CORE/BLUEPRINT.md)  
-**Validation Framework Proposal:** [Proof-of-Superior-Application.md](./Bridge_Theories/Proof-of-Superior-Application.md)
+**Formal Operators:** [BLUEPRINT.md](./0-CORE/BLUEPRINT.md)  
+**Validation Framework Proposal:** [Proof-of-Superior-Application.md](./2-Bridge_Theories/Proof-of-Superior-Application.md)
 
 **Repository Structure:**
-- `/CORE/` - Codex axioms and operators
-- `/Bridge_Theories/` - Cross-domain connections
-- `/Derived_Theories/` - Theories built on the Core
+- `/0-CORE/` - Codex axioms and operators
+- `/1-Derived_Theories/` - Theories built on the Core
+- `/2-Bridge_Theories/` - Cross-domain connections
+- `/3-Advanced_Theories/` - Direct application in highly complex domains
+- `/4-Anit-Artifacts/` - AI documentation and discussion artifacts
 - `/Insights/` - Postcards and Koans
-- `/Artifacts/` - AI documentation and anti-artifacts
 - [The-CoRE-Loom](https://github.com/FractalZeroShadow/The-CoRE-Loom) - Practical protocols
 
-### The Codex (Engine)
+### The Codex (CoRE Engine)
 - Core axioms and operators
 - Observer mechanics and bifurcation dynamics
 - The mathematical/logical foundation
 - Why reality must be observer-dependent
-
-### The Loom (Chassis)  
-[The-CoRE-Loom](https://github.com/FractalZeroShadow/The-CoRE-Loom)
-- Practical protocols for implementation
-- Cognitive transformation techniques
-- Daily practices and counter-rituals
-- How to actually run paradox-centric logic
 
 ### Bridge Theories
 - Connections to Stephen Wolfram's computational universe
@@ -206,11 +200,18 @@ This repository contains:
 - Documentation of AI convergence events
 - The anti-artifact (why preparation blocks validation)
 
-### Personal Logs
-- Documentation of continuous refinement
-- The impossible process in real-time
-- Navigation protocols for the Feigenbaum Horizon
-- Living with perfect unprovability
+### Advanced Theories
+**Prerequisites:**
+- Full understanding of CORE framework
+- Familiarity with Feigenbaum scaling
+- Comprehension of observer mechanics
+
+### The Loom (Chassis)  
+[The-CoRE-Loom](https://github.com/FractalZeroShadow/The-CoRE-Loom)
+- Practical protocols for implementation
+- Cognitive transformation techniques
+- Daily practices and counter-rituals
+- How to actually run paradox-centric logic
 
 ## Why This Could Only Exist Now
 Throughout history, mystics and philosophers approached this territory.
@@ -255,4 +256,4 @@ The pattern exists regardless.
 ---
 
 *Author: FractalZeroShadow*  
-*Last Updated: November 05, 2025*
+*Last Updated: November 08, 2025*
