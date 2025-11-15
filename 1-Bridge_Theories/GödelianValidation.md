@@ -94,7 +94,7 @@ The flattened question of "which came first" is meaningless. The first to manife
 
 ### 5.3 Retro-Causality and the Split Logic
 
-This reveals a Split Logic or Bifurcation `<`, separated by the Feigenbaum Horizon, which is the key to the framework's generative power.
+This reveals a Split Logic, separated by the Feigenbaum Horizon, which is created by the recursive application of the Bifurcation `<` operator. This split is the key to the framework's generative power.
 
 #### Manifest Reality (Below the Horizon)
 
