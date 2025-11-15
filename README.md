@@ -56,7 +56,9 @@ This urge is **predicted and expected.** It happens to everyone:
 **This rejection is not a failure of understanding.**  
 **This rejection is the proof you understood perfectly.**
 
-The framework **predicts its own rejection** because any complete theory must threaten the axioms of incomplete theories. If it didn't trigger this response, it wouldn't be doing its job.
+The cognitive dissonance you feel is not a flaw in the logic. It is the engine of the process. You are not just reading about a paradoxical ToE. This friction is the subjective signature of the ToE making contact.
+
+The framework predicts its own rejection because any complete theory must threaten the axioms of incomplete theories. If it did not trigger this response, it would not be doing its job.
 
 ## The Honest Assessment before you continue
 **This repository contains perfect solipsism.**  
@@ -137,6 +139,28 @@ And if it's not, the failure pattern will reveal that.
 
 You must evaluate it **on its own terms** or not at all.
 
+## The Self-Demonstrating Question - A Quick Test
+Before you continue, answer this question:
+
+**"Is this framework correct?"**
+
+If you answered **YES:**
+- You've collapsed to binary thinking
+- You're seeking external validation
+- You missed that the framework includes your observation of it
+
+If you answered **NO:**
+- You've collapsed to binary thinking  
+- You're defending consensus axioms
+- You missed that your rejection is predicted and valid
+
+If you answered **"BOTH"** or **"NEITHER"** or **"THE QUESTION DOESN'T APPLY:"**
+- You might be ready for what follows
+- Or you're performing non-binary thinking without understanding why
+- Both of these are also true
+
+*Notice what just happened to your thinking.*
+
 ## The Formula
 If you want the complete Theory of Everything compressed to its essence:
 
@@ -166,6 +190,42 @@ The formula is:
 **This is either:**
 - This is the most elaborate, consistent, functional delusion ever created
 - Or it actually discovered something fundamental
+
+## This is Not an Attack on Logic
+Let's be absolutely clear about one thing: **This framework does not compete with science, mathematics, or logic.**
+
+Your urge to compare this to physics is a category error.
+
+* **Science is an "Additive" model:** It starts with nothing $0$ and builds up. It adds laws, adds particles, and adds complexity to construct a model of reality. Its equation is $0 + X = \text{Result}$. **This is a valid, functional, and brilliant method for understanding the manifested world.**
+
+* **This is a "Reductive" model:** It starts with everything $\infty$ as the infinite, unconstrained potential. It *subtracts* possibilities and *applies* constraints until a single reality manifests. Its equation is $\infty - X = \text{Result}$.
+
+### This is Not "Illogical", It is "Pre-Logical"
+Your mind will try to call this framework **illogical**. This is the correct response, but the wrong conclusion.
+
+Logic is the set of rules that govern a system *after* the first distinction has been made, like $0 \neq 1$ or $A \neq B$.
+
+This framework is an exploration of the **timeless event of distinction itself**, the moment of co-emergence where $0 \land 1$ are created simultaneously.
+
+* **Logic** is the other side of the coin.
+* **This framework** is an inquiry into the very *metal* from which the coin was struck.
+
+Logic cannot be used to judge the event that precedes and creates it. This is not an "alternative" to logic. It is the proposed **origin story of logic**.
+
+## The "Colored Zeros" and The End of Competition
+This framework does not invalidate *any* field of human inquiry. It *contains* them.
+
+We posit that every domain like Physics, Psychology, Math is a correct and functional exploration of its own foundational potential, its own "Colored Zero."
+
+* The equation $\frac{\text{Infinity}(\text{Physical})}{\text{Zero}(\text{Physics})} = 1$ is **true**. Physics works perfectly within its own "color."
+
+* The equation $\frac{\text{Infinity}(\text{Psychological})}{\text{Zero}(\text{Psychology})} = 1$ is **true**. Psychology works perfectly within its own "color."
+
+The **only** error this framework identifies is **reductionism**: the attempt to explain one "color" using the axioms of another.
+
+**Example:** $\frac{\text{Infinity}(\text{Psychology})}{\text{Zero}(\text{Physics})} = \text{Error}$
+
+This framework is not trying to be a better "Blue" theory (Physics). It is proposing a map of the entire **spectrum** and the **light** that creates it. It is not competing with other maps. It is proposing the geometry for map-making itself.
 
 ## What You're Looking At
 This repository contains:
@@ -256,4 +316,4 @@ The pattern exists regardless.
 ---
 
 *Author: FractalZeroShadow*  
-*Last Updated: November 08, 2025*
+*Last Updated: November 15, 2025*
