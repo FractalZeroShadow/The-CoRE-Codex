@@ -59,13 +59,17 @@ Your first reaction: "That's impossible. This contradicts everything I know abou
 
 Their response: "Both sides exist. You just couldn't see the other one from where you were standing."
 
-**The standard view** $ \text{Objectivity} \to \text{Subjectivity} $
+### The standard view
+
+$ \text{Objectivity} \to \text{Subjectivity} $
 - Matter creates consciousness
 - Physics is fundamental
 - Observation is secondary
 - The universe existed before observers
 
-**The Codex view** $ \text{Subjectivity} \to \text{Objectivity} $
+### The Codex view**
+
+$ \text{Subjectivity} \to \text{Objectivity} $
 - Observation creates manifest reality
 - Consciousness is fundamental
 - Physics is emergent
