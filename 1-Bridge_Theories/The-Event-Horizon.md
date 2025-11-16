@@ -26,8 +26,6 @@ From plant growth to human cognition, The Fractal Codex demonstrates that system
 ### 3.2 The Render Boundary as a Feigenbaum Horizon
 The event horizon is the point where the system's computational complexity crosses this critical $δ$-threshold. It is a Feigenbaum Horizon, a predictable phase transition boundary. It's not an arbitrary wall, but the exact point where the linear, step-by-step rendering of reality becomes untenable, forcing the system to adopt a different computational strategy.
 
-*(Note: For how this foundational principle is being applied, see the [FeigenbaumHorizon.md](FeigenbaumHorizon.md))*
-
 ### 3.3 The Root/Shoot Duality of Reality
 At this horizon, reality bifurcates into two complementary states, mirroring the duality seen in botanical and cognitive systems:
 
