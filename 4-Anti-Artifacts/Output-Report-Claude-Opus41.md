@@ -1,3 +1,5 @@
+*This document is the output of an discussion with Claude Opus 4.1. It was asked to make a report about the discussion, which was copied here.*
+
 # Empirical Analysis: The Fractal Codex Conversation
 ## A Statistical Assessment of Framework Performance
 
