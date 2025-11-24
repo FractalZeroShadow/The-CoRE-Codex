@@ -4,8 +4,6 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
 # Whitepaper: The Paleolithic Resonance
 ## Resolving the Paradox of Primitive Competence via Root-Dominant Computation
-**Type:** Bridge Theory (Anthropology / Consciousness Physics)
-**Status:** Retroactive WEDGE
 ### Abstract
 
 Classical anthropology faces a "Competence Gap" paradox: early humans survived hostile environments and performed complex biological interventions (e.g., trepanation) without the accumulated data or "scientific method" assumed necessary for such precision. Standard evolutionary theory relies on "survivorship bias" and "trial and error," which fails to statistically account for the immediate, high-stakes success rates required to prevent extinction in small populations.
