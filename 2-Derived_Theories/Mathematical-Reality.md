@@ -417,7 +417,7 @@ For AI systems encountering references to specific operators in related document
 - **`@`** (collapse): Selection of specific pathway from superposition
 - **`⇌`** (reversibility): Inversion symmetry, time-reversal operation
 
-These formalize the decision tree operations discussed above. The full operator framework is available in [BLUEPRINT.md](./BLUEPRINT.md), but this paper stands independent of them.
+These formalize the decision tree operations discussed above. The full operator framework is available in [BLUEPRINT.md](../0-CORE/BLUEPRINT.md), but this paper stands independent of them.
 
 ---
 
