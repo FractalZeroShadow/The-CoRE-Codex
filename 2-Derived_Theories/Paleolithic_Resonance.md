@@ -102,7 +102,7 @@ The Codex predicts that "competence without data" is possible via Resonance, sol
 ### 1. The Data: The Taming of Enkidu
 In the *Epic of Gilgamesh*, Enkidu begins as a wild man. He lives in the steppe, eats grass with gazelles, and exists in a state of perfect, non-dual resonance with nature. He has no "Ego" distinct from the environment.
 
-He is "tamed" not by force, but by two technologies: **Sex** (Shamhat) and **Processed Food** (Bread and Beer).
+He is "tamed" not by force, but by the technology **Processed Food** (Bread and Beer).
 > *"Eat the bread, Enkidu, it is the staff of life. Drink the beer, it is the custom of the land."*
 
 After consuming the bread and beer:
