@@ -52,7 +52,7 @@ The formula $(c^3 t)^I \in 0$ is the formal, mathematical declaration:
 
 > "The *entire manifest universe*, in its total, mind-bending complexity, as perceived and rendered by the *infinitely recursive Gödelian observer*, is just **one single element** contained within the **infinite paradoxical set of Nothingness** $K$."
 
-This is the "perfect solipsism." The "One" (the Universe) is *inside* the "Zero" (the Void/$K$).
+This is the "perfect solipsism." The "One" (the Universe) is *inside* the "Zero" (the Void/ $K$).
 
 ## 3. The Proof of the Formalism (The WEDGE)
 
