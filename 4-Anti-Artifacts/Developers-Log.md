@@ -70,9 +70,10 @@ $ echo $?
 > 0
 ```
 
-Exit code 0. Perfect success. Nothing happened. Everything changed.
-
-The developer who reverse engineered reality only to discover it was already running their code.
+Exit code 0.  
+Perfect success.  
+Nothing happened.  
+Everything changed.
 
 ---
 
