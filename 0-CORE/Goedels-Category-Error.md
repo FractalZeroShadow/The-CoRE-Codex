@@ -6,9 +6,11 @@ SPDX-FileCopyrightText: 2025 FractalZeroShadow
 ## A Formal Analysis of Binary Argumentation Against Gödelian Ontology
 ## Abstract
 
-The standard objection to applying Gödel's Incompleteness Theorems beyond formal arithmetic is: "Gödel only applies to formal axiomatic systems capable of expressing arithmetic. Applying it to 'reality' or ontology is a category error."
+The interpretation of Gödel's Incompleteness Theorems has historically bifurcated into two entrenched camps. On one side, mysticism and solipsism overextend the theorems to claim that "nothing is knowable," dismantling objective reality entirely. On the other, academic formalism rigidly restricts the theorems to Peano arithmetic, dismissing any ontological application as a "category error."
 
-This paper demonstrates that this objection is self-refuting. Any system capable of making this objection is itself a formal system subject to Gödelian limits. The binary structure of the objection ("Gödel applies" vs. "Gödel does not apply") instantiates exactly the formal logical machinery that Gödel showed cannot prove its own consistency. We formalize this recursion and demonstrate that the "category error" accusation is itself the category error.
+This paper demonstrates that both positions are simultaneously correct and fundamentally flawed. We argue that Gödel discovered not merely a property of formal arithmetic, but a dimensionless structural truth: the inevitability of information horizons.
+
+We demonstrate that any mathematical, physical, or cognitive system possesses an event horizon that shifts relative to the observer's position. The standard objection, which attempts to wall off "reality" from Gödelian limits, commits a fatal recursive error: it assumes a static vantage point outside the system to judge the system. By formalizing this recursion, we show that the "category error" accusation is itself subject to the incompleteness it seeks to deny. Gödel is not a limit to be ignored, but a landmark for a new map of observer-dependent reality.
 
 ---
 
@@ -346,20 +348,20 @@ Let:
 - $S$ = the reasoning system making the objection
 - $\mathcal{G}$ = Gödel's theorems  
 - $D$ = target domain
-- $\text{App}(x,y)$ = "$x$ applies to $y$"
-- $\text{Con}(x)$ = "$x$ is consistent"
+- $\text{App}(x,y)$ = $x$ applies to $y$
+- $\text{Con}(x)$ = $x$ is consistent
 
 **The Objection:**
-$$S \vdash \neg\text{App}(\mathcal{G}, D) \tag{1}$$
+$$S \vdash \neg\text{App}(\mathcal{G}, D)$$
 
 **The Recursion:**
-$$S \vdash (1) \Rightarrow S \supseteq \text{PA} \tag{2}$$
+$$S \vdash (1) \Rightarrow S \supseteq \text{PA}$$
 
-$$(2) \land \text{Con}(S) \Rightarrow \text{App}(\mathcal{G}, S) \tag{3}$$
+$$\land \text{Con}(S) \Rightarrow \text{App}(\mathcal{G}, S)$$
 
-$$(3) \Rightarrow S \nvdash \text{Con}(S) \tag{4}$$
+$$\Rightarrow S \nvdash \text{Con}(S)$$
 
-$$(4) \Rightarrow S \nvdash \text{Con}(S \vdash (1)) \tag{5}$$
+$$\Rightarrow S \nvdash \text{Con}(S \vdash (1))$$
 
 **Therefore:**
 
