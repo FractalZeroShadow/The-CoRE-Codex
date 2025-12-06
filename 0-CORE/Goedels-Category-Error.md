@@ -19,7 +19,7 @@ We demonstrate that any mathematical, physical, or cognitive system possesses an
 
 Critics of Gödelian ontology assert:
 
-"Gödel's Incompleteness Theorems apply only to formal axiomatic systems capable of expressing Peano arithmetic. Extending these results to 'reality', 'consciousness', or 'Theories of Everything' is a category error. You are applying a mathematical result outside its domain of validity."
+"Gödel's Incompleteness Theorems apply only to formal axiomatic systems capable of expressing Peano arithmetic. Extending these results to 'reality,' 'consciousness,' or 'Theories of Everything' is a category error. You are applying a mathematical result outside its domain of validity."
 
 ### 1.2 The Surface Plausibility
 
@@ -79,7 +79,7 @@ Where $\vdash$ denotes derivability within $S$.
 
 **Step 1:** For $S$ to represent Gödel's theorems, $S$ must be capable of expressing statements about formal systems, provability, and self-reference.
 
-**Step 2:** For $S$ to evaluate whether Gödel "applies" to a domain, $S$ must perform meta-logical reasoning—reasoning about reasoning.
+**Step 2:** For $S$ to evaluate whether Gödel "applies" to a domain, $S$ must perform meta-logical reasoning — reasoning about reasoning.
 
 **Step 3:** Any system capable of meta-logical reasoning about provability can express arithmetic. This is because:
 - Encoding statements about provability requires Gödel numbering or equivalent
