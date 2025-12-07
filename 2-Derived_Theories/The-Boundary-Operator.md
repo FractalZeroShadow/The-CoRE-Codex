@@ -67,7 +67,7 @@ This ignored entropy accumulates over time. Because $E_p$ is fractal, it follows
 
 $$E_p(t+1) = E_p(t) \times \delta$$
 
-*(Where $\delta \approx 4.669$, the Feigenbaum Constant).*
+*(Where* $\delta \approx 4.669$*, the Feigenbaum Constant).*
 
 ### 3.3 The Black Swan Mechanism
 A "Black Swan" event is not a random accident. It is a **Margin Call** on Ontological Debt. It occurs when the accumulated entropy ($E_p$) exceeds the structural integrity ($L_c$) of the consensus model.
