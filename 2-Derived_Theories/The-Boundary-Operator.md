@@ -139,7 +139,7 @@ The following table explicitly defines the variable stack for the CoRE Operating
 | **$K$** | Substrate | Raw Input | Undefined | $\emptyset$ / Chaos |
 | **$<$** | Bifurcation | **Explode** | Generator | $f(x) \to x^2 + c$ |
 | **$\Psi_{int}$** | Internal | Potential (Wave) | $\infty$ (Hilbert) | $\sum \| \psi \rangle$ |
-| $ -\| $ | Boundary | **Reduce** | Filter (OR) | $\hat{P}$ (Projector) |
+| $-\|$ | Boundary | **Reduce** | Filter (OR) | $\hat{P}$ (Projector) |
 | **$\Psi_{ext}$** | External | Kinetic (Particle) | 4 (Spacetime) | $r \in \mathbb{R}^4$ |
 | **$\oplus$** | Ambilibrium | Integrate (AND) | Complex Plane | $a + bi$ |
 
