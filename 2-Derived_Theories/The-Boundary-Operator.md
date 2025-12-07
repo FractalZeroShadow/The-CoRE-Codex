@@ -88,6 +88,7 @@ This framework provides a mechanical resolution to the measurement problem by id
 * **The "Particle" ($\Psi_{ext}$):** The shadow cast on the screen (Spacetime manifold).
 
 The `-|` operator functions as a projector $\hat{P}$:
+
 $$\Psi_{ext} = \hat{P}_{obs} \cdot \Psi_{int}$$
 
 ### 4.2 The "OR" Trap
