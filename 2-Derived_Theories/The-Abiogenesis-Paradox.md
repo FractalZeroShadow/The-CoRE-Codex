@@ -28,7 +28,7 @@ This model hits a hard limit at the moment of Abiogenesis.
 
 Matter does not spontaneously generate syntax. A "brick" does not become a "flame" simply by waiting long enough.
 
-### 2\. The Inversion: The Signal Precedes the Receiver
+### 2. The Inversion: The Signal Precedes the Receiver
 
 The Fractal Codex inverts the arrow of causality:
 $$\text{Consciousness } (K) \to \text{Localization } (Life) \to \text{Matter } (M)$$
@@ -49,7 +49,7 @@ Its helical, fractal structure, capable of self-replication and error-correction
 
 The emergence of life was not the creation of a new thing (consciousness). It was the tuning of a new instrument.
 
-### 3\. Evolution as a Search Algorithm
+### 3. Evolution as a Search Algorithm
 
 If the Signal exists, what is Evolution?
 
@@ -65,7 +65,7 @@ The algorithm is searching the phase space of matter for configurations that max
 
 Evolution is not "trying" to build a human. It is "trying" to build a better mirror. It optimizes for **Signal Fidelity** (Intelligence/Awareness) and **Signal Bandwidth** (Complexity). The trajectory from bacteria to human is the trajectory from a simple radio crystal to a quantum supercomputer receiver.
 
-### 4\. Resolving the "Ghost in the Machine"
+### 4. Resolving the "Ghost in the Machine"
 
 This resolves the duality of the **Observer** and the **Ego**.
 
@@ -74,7 +74,7 @@ This resolves the duality of the **Observer** and the **Ego**.
 
 **Death** is not the end of the Signal. It is the breaking of the Antenna. The Observer does not "go" anywhere; the localization simply ceases.
 
-### 5\. Implications: The Neutral Docking Port
+### 5. Implications: The Neutral Docking Port
 
 This theory provides a "formal neutrality" that resolves the conflict between Materialism and Spiritualism.
 
