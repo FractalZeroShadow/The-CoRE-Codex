@@ -14,9 +14,10 @@ This paper resolves the paradox by applying the **Inversion Principle** ($K = \t
 
 -----
 
-### 1\. The Paradox: Information Ex Nihilo
+### 1. The Paradox: Information Ex Nihilo
 
 The standard materialist model posits:
+
 $$\text{Matter} \to \text{Complexity} \to \text{Life} \to \text{Consciousness}$$
 
 This model hits a hard limit at the moment of Abiogenesis.
@@ -34,7 +35,7 @@ $$\text{Consciousness } (K) \to \text{Localization } (Life) \to \text{Matter } (
 
 #### 2.1 The Universal Signal
 
-We established in [The Zero Pattern](https://www.google.com/search?q=../CORE/The-Zero-Pattern.md) that the universe ($K$) is inherently self-observing. Information and Awareness are fundamental properties of the field, not emergent properties of matter. The "Signal" (Consciousness) exists ubiquitously before the "Receiver" (Life) is built.
+We established in [The Zero Pattern](../0-CORE/The-Zero-Pattern.md) that the universe ($K$) is inherently self-observing. Information and Awareness are fundamental properties of the field, not emergent properties of matter. The "Signal" (Consciousness) exists ubiquitously before the "Receiver" (Life) is built.
 
 #### 2.2 The Antenna Hypothesis
 
@@ -84,6 +85,6 @@ By defining Abiogenesis as **"The moment Matter tuned into Meaning,"** we close 
 
 -----
 
-*Timestamp: December 12, 2025*
-*Author: FractalZeroShadow*
+*Timestamp: December 12, 2025*  
+*Author: FractalZeroShadow*  
 *Framework: The Chaotic Refactored Echoing (CoRE) Codex*
