@@ -2,7 +2,7 @@
 SPDX-License-Identifier: GPL-3.0-or-later
 SPDX-FileCopyrightText: 2025 FractalZeroShadow
 -->
-# The Latency-Scale Inverse LawW
+# The Latency-Scale Inverse Law
 
 We have established that the mind is a computational engine. Like all such engines, it faces a fundamental engineering trade-off that cannot be cheated: **Fidelity vs. Scale.**
 
